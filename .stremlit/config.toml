@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#005B82"          # Azul WN7
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F5F5F5"
+textColor="#1D1D1B"             # Preto WN7
+font="sans serif"

@@ -1,14 +1,108 @@
-import pandas as pd
-import streamlit as st
+import pandas as pd, os, streamlit as st
 from datetime import date
 
 # ======================
 # ⚙️ Configurações gerais
 # ======================
-st.set_page_config(page_title="Dashboard GA4", page_icon="📊", layout="wide")
-st.title("📈 Dashboard de Contas – Google Analytics 4")
-data_extracao = date.today().strftime("%d/%m/%Y")
-st.markdown(f"**🕒 Dados extraídos em:** {data_extracao}")
+st.set_page_config(page_title="Dashboard GA4 – WN7", page_icon="📊", layout="wide")
+# logo_path = os.path.join(os.path.dirname(__file__), "assets", "logo.png")
+
+# Pega o diretório onde o script está
+base_dir = os.path.dirname(__file__)
+logo_path = os.path.join(base_dir, "assents", "logo.png")
+
+
+
+# CSS Global — Tema WN7
+st.markdown("""
+    <style>
+        /* ===========================
+           🎨 Tema WN7 Performance Digital
+        ============================ */
+        body, .stApp {
+            background-color: #FFFFFF !important;
+            color: #1D1D1B !important;
+            font-family: 'Montserrat', sans-serif !important;
+        }
+
+        h1, h2, h3, h4 {
+            color: #005B82 !important;
+            font-weight: 600 !important;
+        }
+
+        /* Campos de entrada */
+        div[data-baseweb="select"], .stTextInput > div > div > input {
+            background-color: #FFFFFF !important;
+            color: #1D1D1B !important;
+            border: 1px solid #ADAFAF !important;
+            border-radius: 6px !important;
+        }
+
+        /* Placeholders */
+        ::placeholder {
+            color: #6e6e6e !important;
+        }
+
+        /* Botões */
+        button[kind="primary"] {
+            background-color: #005B82 !important;
+            color: white !important;
+            border: none !important;
+            border-radius: 6px !important;
+        }
+
+        button[kind="secondary"] {
+            background-color: #F39200 !important;
+            color: white !important;
+            border: none !important;
+            border-radius: 6px !important;
+        }
+
+        /* Cards */
+        .card {
+            background-color: #FFFFFF;
+            border: 1px solid #ADAFAF;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            color: #1D1D1B;
+        }
+
+        .card h4 {
+            color: #005B82;
+            margin-bottom: 12px;
+            font-size: 26px;
+        }
+
+        .receita {
+            color: #F39200 !important;
+            font-weight: bold;
+        }
+
+        /* Linhas e divisores */
+        hr {
+            border-top: 1px solid #ADAFAF !important;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+# ======================
+# 🖼️ Cabeçalho com logo
+# ======================
+col_logo, col_titulo = st.columns([0.15, 0.85])
+with col_logo:
+    st.image(logo_path)
+    # st.image("assets/logown7.jpeg", width="stretch")
+    # st.image(logo_path, width="stretch")
+    # st.image(r"C:\code\agency_dash\agengy\assents\logo.png")
+
+with col_titulo:
+    st.title("Dashboard de Contas – Google Analytics 4")
+    data_extracao = date.today().strftime("%d/%m/%Y")
+    st.markdown(f"**🕒 Dados extraídos em:** {data_extracao}")
+
+st.markdown("---")
 
 # ======================
 # 📦 Carrega dados
@@ -42,7 +136,7 @@ df_validas = df[
 ]
 
 # ======================
-# 🔍 Filtro de contas (multiseleção)
+# 🔍 Filtro de contas
 # ======================
 contas_disponiveis = sorted(df_validas['account_display'].unique())
 selecionadas = st.multiselect(
@@ -59,7 +153,7 @@ else:
 st.markdown("---")
 
 # ======================
-# 🧱 Cards responsivos (3 colunas)
+# 🧱 Cards estilizados WN7
 # ======================
 colunas = st.columns(3)
 
@@ -75,30 +169,17 @@ for idx, conta in enumerate(df_filtrado['account_display'].unique()):
     with col:
         st.markdown(
             f"""
-            <div style="
-                background-color:#1e1e1e;
-                border-radius:12px;
-                padding:20px;
-                margin-bottom:20px;
-                box-shadow:0 4px 10px rgba(0,0,0,0.25);
-                color:white;
-                font-family:Arial, sans-serif;
-                display:flex;
-                flex-direction:column;
-                justify-content:space-between;
-                height:auto;
-            ">
-                <h4 style="color:#00bfff; margin-bottom:12px; font-size:30px;">{conta}</h4>
+            <div class="card">
+                <h4>{conta}</h4>
                 <div style="
                     display:grid;
                     grid-template-columns: 1fr 1fr;
-                    gap:8px;
-                    font-size:14px;
-                    line-height:1.4;
+                    gap:10px;
+                    font-size:17px;
                 ">
                     <div><b>Sessões:</b><br>{total_sessions:,}</div>
                     <div><b>Transações:</b><br>{total_transactions:,}</div>
-                    <div><b>Receita:</b><br>R$ {total_revenue:,.2f}</div>
+                    <div><b>Receita:</b><br><span class="receita">R$ {total_revenue:,.2f}</span></div>
                     <div><b>Conversão:</b><br>{avg_conversion:.2f}%</div>
                 </div>
             </div>
@@ -107,24 +188,15 @@ for idx, conta in enumerate(df_filtrado['account_display'].unique()):
         )
 
 # ======================
-# 📋 Lista de contas zeradas (no final)
+# ⚠️ Contas zeradas
 # ======================
 if len(df_zeradas) > 0:
     st.markdown("---")
     st.markdown(
-        "<h3 style='text-align:center; color:#ffcc00;'>⚠️ Contas com todos os valores zerados</h3>",
+        "<h3 style='text-align:center; color:#F39200;'>⚠️ Contas com todos os valores zerados</h3>",
         unsafe_allow_html=True
     )
 
     col1, col2, col3, col4 = st.columns(4)
-
     for idx, conta in enumerate(df_zeradas):
-        if idx % 4 == 0:
-            col = col1
-        elif idx % 4 == 1:
-            col = col2
-        elif idx % 4 == 2:
-            col = col3
-        else:
-            col = col4
-        col.markdown(f"- {conta}")
+        [col1, col2, col3, col4][idx % 4].markdown(f"- {conta}")
