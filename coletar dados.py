@@ -1,5 +1,6 @@
 import os, pandas as pd
 from datetime import date
+from dateutil.relativedelta import relativedelta
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
@@ -66,14 +67,80 @@ for i in accounts:
 
 base_dados = []
 
-start_of_month = date.today().replace(day=1).isoformat()
-end_of_month = date.today().isoformat()
+# start_of_month = date.today().replace(day=1).isoformat()
+# end_of_month = date.today().isoformat()
 
-for i in all_properties:
+# Período atual (1º dia até hoje)
+today = date.today()
+start_of_month = today.replace(day=1).isoformat()
+end_of_month = today.isoformat()
+
+# Período equivalente do mês anterior
+last_month = today - relativedelta(months=1)
+start_of_last_month = last_month.replace(day=1).isoformat()
+
+# Garante que o fim do período anterior não passe do último dia do mês anterior
+try:
+    end_of_last_month = last_month.replace(day=today.day).isoformat()
+except ValueError:
+    # Caso o mês anterior tenha menos dias (ex: 31 -> 30)
+    end_of_last_month = (last_month.replace(day=1) + relativedelta(months=1) - relativedelta(days=1)).isoformat()
+
+# for i in all_properties:
+#     response = analytics_data.properties().runReport(
+#         property=i['property_id'],
+#         body={
+#             "dateRanges": [{"startDate": start_of_month, "endDate": end_of_month}],
+#             "metrics": [
+#                 {"name": "sessions"},
+#                 {"name": "transactions"},
+#                 {"name": "purchaseRevenue"}
+#             ]
+#         }
+#     ).execute()
+
+#     if "rows" not in response:
+#         # print(f"Nenhum dado para {i['property_display']} ({i['property_id']})")
+#         base_dados.append({
+#             'account_name': i['account_name'],
+#             'account_display': i['account_display'],
+#             'property_id': i['property_id'],
+#             'property_display': i['property_display'],
+#             'sessions': 0,
+#             'transactions': 0,
+#             'purchaseRevenue': 0.0,
+#             'conversion_rate': 0.0
+#         })
+#         continue
+
+#     # Extrai os valores
+#     sessions = int(response["rows"][0]["metricValues"][0]["value"])
+#     transactions = int(response["rows"][0]["metricValues"][1]["value"])
+#     purchaseRevenue = float(response["rows"][0]["metricValues"][2]["value"])
+
+#     # Calcula a taxa de conversão (%)
+#     conversion_rate = (transactions / sessions) * 100 if sessions > 0 else 0
+#     base_dados.append({
+#         'account_name': i['account_name'],
+#         'account_display': i['account_display'],
+#         'property_id': i['property_id'],
+#         'property_display': i['property_display'],
+#         'sessions': sessions,
+#         'transactions': transactions,
+#         'purchaseRevenue': purchaseRevenue,
+#         'conversion_rate': conversion_rate
+#     })
+
+# print(f"Total de propriedades analisadas: {len(base_dados)}")
+
+# df = pd.DataFrame(base_dados)
+# df.to_csv('relatorio_analytics.csv', index=False, sep=';')
+
+def run_ga_report(property_id, start_date, end_date):
     response = analytics_data.properties().runReport(
-        property=i['property_id'],
+        property=property_id,
         body={
-            "dateRanges": [{"startDate": start_of_month, "endDate": end_of_month}],
+            "dateRanges": [{"startDate": start_date, "endDate": end_date}],
             "metrics": [
                 {"name": "sessions"},
                 {"name": "transactions"},
@@ -83,38 +150,50 @@ for i in all_properties:
     ).execute()
 
     if "rows" not in response:
-        # print(f"Nenhum dado para {i['property_display']} ({i['property_id']})")
-        base_dados.append({
-            'account_name': i['account_name'],
-            'account_display': i['account_display'],
-            'property_id': i['property_id'],
-            'property_display': i['property_display'],
-            'sessions': 0,
-            'transactions': 0,
-            'purchaseRevenue': 0.0,
-            'conversion_rate': 0.0
-        })
-        continue
+        return 0, 0, 0.0
 
-    # Extrai os valores
     sessions = int(response["rows"][0]["metricValues"][0]["value"])
     transactions = int(response["rows"][0]["metricValues"][1]["value"])
     purchaseRevenue = float(response["rows"][0]["metricValues"][2]["value"])
+    return sessions, transactions, purchaseRevenue
 
-    # Calcula a taxa de conversão (%)
-    conversion_rate = (transactions / sessions) * 100 if sessions > 0 else 0
+for i in all_properties:
+    # Dados do mês atual
+    sessions_now, transactions_now, revenue_now = run_ga_report(
+        i['property_id'], start_of_month, end_of_month
+    )
+
+    # Dados do mês anterior
+    sessions_prev, transactions_prev, revenue_prev = run_ga_report(
+        i['property_id'], start_of_last_month, end_of_last_month
+    )
+
+    # Taxas de conversão
+    conv_now = (transactions_now / sessions_now) * 100 if sessions_now > 0 else 0
+    conv_prev = (transactions_prev / sessions_prev) * 100 if sessions_prev > 0 else 0
+
+    # Variações (%)
+    def variation(current, previous):
+        if previous == 0:
+            return None
+        return ((current - previous) / previous) * 100
+
     base_dados.append({
-        'account_name': i['account_name'],
         'account_display': i['account_display'],
-        'property_id': i['property_id'],
         'property_display': i['property_display'],
-        'sessions': sessions,
-        'transactions': transactions,
-        'purchaseRevenue': purchaseRevenue,
-        'conversion_rate': conversion_rate
+        'sessions_now': sessions_now,
+        'sessions_prev': sessions_prev,
+        'sessions_var_%': variation(sessions_now, sessions_prev),
+        'transactions_now': transactions_now,
+        'transactions_prev': transactions_prev,
+        'transactions_var_%': variation(transactions_now, transactions_prev),
+        'purchaseRevenue_now': revenue_now,
+        'purchaseRevenue_prev': revenue_prev,
+        'revenue_var_%': variation(revenue_now, revenue_prev),
+        'conversion_rate_now': conv_now,
+        'conversion_rate_prev': conv_prev,
+        'conversion_var_%': variation(conv_now, conv_prev)
     })
-
-print(f"Total de propriedades analisadas: {len(base_dados)}")
 
 df = pd.DataFrame(base_dados)
 df.to_csv('relatorio_analytics.csv', index=False, sep=';')

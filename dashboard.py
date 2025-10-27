@@ -5,20 +5,19 @@ from datetime import date
 # ⚙️ Configurações gerais
 # ======================
 st.set_page_config(page_title="Dashboard GA4 – WN7", page_icon="📊", layout="wide")
-# logo_path = os.path.join(os.path.dirname(__file__), "assets", "logo.png")
 
-# Pega o diretório onde o script está
+# Caminho do logo
 base_dir = os.path.dirname(__file__)
 logo_path = os.path.join(base_dir, "assents", "logo.png")
 
-
-
-# CSS Global — Tema WN7
+# ======================
+# 🎨 Tema visual (cores do print)
+# ======================
+# ======================
+# 🎨 Tema visual (ajustado ao padrão da imagem)
+# ======================
 st.markdown("""
     <style>
-        /* ===========================
-           🎨 Tema WN7 Performance Digital
-        ============================ */
         body, .stApp {
             background-color: #FFFFFF !important;
             color: #1D1D1B !important;
@@ -30,7 +29,6 @@ st.markdown("""
             font-weight: 600 !important;
         }
 
-        /* Campos de entrada */
         div[data-baseweb="select"], .stTextInput > div > div > input {
             background-color: #FFFFFF !important;
             color: #1D1D1B !important;
@@ -38,54 +36,74 @@ st.markdown("""
             border-radius: 6px !important;
         }
 
-        /* Placeholders */
         ::placeholder {
             color: #6e6e6e !important;
         }
 
-        /* Botões */
         button[kind="primary"] {
             background-color: #005B82 !important;
             color: white !important;
-            border: none !important;
             border-radius: 6px !important;
         }
 
-        button[kind="secondary"] {
-            background-color: #F39200 !important;
-            color: white !important;
-            border: none !important;
-            border-radius: 6px !important;
-        }
-
-        /* Cards */
+        /* ======= ESTILO DOS CARDS ======= */
         .card {
             background-color: #FFFFFF;
-            border: 1px solid #ADAFAF;
-            border-radius: 12px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            border: 1px solid #E5E5E5;
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
             color: #1D1D1B;
         }
 
         .card h4 {
             color: #005B82;
-            margin-bottom: 12px;
+            font-size: 22px;
+            margin-bottom: 18px;
+            text-align: left;
+        }
+
+        /* ======= MÉTRICAS PRINCIPAIS ======= */
+        .valor-principal {
             font-size: 26px;
+            color: #F39200;
+            font-weight: 700;
+            line-height: 1.3;
         }
 
         .receita {
-            color: #F39200 !important;
-            font-weight: bold;
+            font-size: 24px;
+            color: #F39200;
+            font-weight: 700;
         }
 
-        /* Linhas e divisores */
+        .variacao {
+            font-size: 15px;
+            font-weight: 600;
+            margin-top: -4px;
+        }
+
+        .positivo {
+            color: #16a34a !important; /* verde */
+        }
+
+        .negativo {
+            color: #dc2626 !important; /* vermelho */
+        }
+
+        .meta {
+            font-size: 14px;
+            color: #16a34a;
+            line-height: 1.4;
+        }
+
         hr {
-            border-top: 1px solid #ADAFAF !important;
+            border-top: 1px solid #E5E5E5 !important;
         }
     </style>
 """, unsafe_allow_html=True)
+
 
 # ======================
 # 🖼️ Cabeçalho com logo
@@ -93,9 +111,6 @@ st.markdown("""
 col_logo, col_titulo = st.columns([0.15, 0.85])
 with col_logo:
     st.image(logo_path)
-    # st.image("assets/logown7.jpeg", width="stretch")
-    # st.image(logo_path, width="stretch")
-    # st.image(r"C:\code\agency_dash\agengy\assents\logo.png")
 
 with col_titulo:
     st.title("Dashboard de Contas – Google Analytics 4")
@@ -110,10 +125,15 @@ st.markdown("---")
 @st.cache_data
 def carregar_dados():
     df = pd.read_csv("relatorio_analytics.csv", sep=";")
-    df['purchaseRevenue'] = df['purchaseRevenue'].astype(float)
-    df['sessions'] = df['sessions'].astype(int)
-    df['transactions'] = df['transactions'].astype(int)
-    df['conversion_rate'] = df['conversion_rate'].astype(float)
+    # Converte colunas numéricas
+    cols_float = [
+        "sessions_now", "sessions_prev",
+        "transactions_now", "transactions_prev",
+        "purchaseRevenue_now", "purchaseRevenue_prev",
+        "conversion_rate_now", "conversion_rate_prev"
+    ]
+    for c in cols_float:
+        df[c] = pd.to_numeric(df[c], errors="coerce").fillna(0)
     return df
 
 df = carregar_dados()
@@ -122,16 +142,16 @@ df = carregar_dados()
 # 🔹 Identifica contas zeradas e válidas
 # ======================
 df_zeradas = df[
-    (df['sessions'] == 0) &
-    (df['transactions'] == 0) &
-    (df['purchaseRevenue'] == 0)
+    (df['sessions_now'] == 0) &
+    (df['transactions_now'] == 0) &
+    (df['purchaseRevenue_now'] == 0)
 ]['account_display'].unique()
 
 df_validas = df[
     ~(
-        (df['sessions'] == 0) &
-        (df['transactions'] == 0) &
-        (df['purchaseRevenue'] == 0)
+        (df['sessions_now'] == 0) &
+        (df['transactions_now'] == 0) &
+        (df['purchaseRevenue_now'] == 0)
     )
 ]
 
@@ -153,17 +173,39 @@ else:
 st.markdown("---")
 
 # ======================
-# 🧱 Cards estilizados WN7
+# 🧱 Cards estilizados (cores do print)
 # ======================
+meta_geral = 100000
+
 colunas = st.columns(3)
 
 for idx, conta in enumerate(df_filtrado['account_display'].unique()):
     conta_df = df_filtrado[df_filtrado['account_display'] == conta]
 
-    total_sessions = conta_df['sessions'].sum()
-    total_transactions = conta_df['transactions'].sum()
-    total_revenue = conta_df['purchaseRevenue'].sum()
+    total_sessions = conta_df['sessions_now'].sum()
+    total_prev_sessions = conta_df['sessions_prev'].sum()
+
+    total_transactions = conta_df['transactions_now'].sum()
+    total_prev_transactions = conta_df['transactions_prev'].sum()
+
+    total_revenue = conta_df['purchaseRevenue_now'].sum()
+    total_prev_revenue = conta_df['purchaseRevenue_prev'].sum()
+
     avg_conversion = (total_transactions / total_sessions * 100) if total_sessions > 0 else 0
+    avg_conversion_prev = (total_prev_transactions / total_prev_sessions * 100) if total_prev_sessions > 0 else 0
+
+    # variações percentuais
+    var_sessions = ((total_sessions - total_prev_sessions) / total_prev_sessions * 100) if total_prev_sessions > 0 else 0
+    var_revenue = ((total_revenue - total_prev_revenue) / total_prev_revenue * 100) if total_prev_revenue > 0 else 0
+    var_conversion = ((avg_conversion - avg_conversion_prev) / avg_conversion_prev * 100) if avg_conversion_prev > 0 else 0
+
+    progresso_meta = (total_revenue / meta_geral) * 100
+    progresso_meta = min(progresso_meta, 9999)
+
+    cor_meta = "#16a34a" if progresso_meta >= 100 else "#F39200"
+    cor_var_sess = "positivo" if var_sessions >= 0 else "negativo"
+    cor_var_rev = "positivo" if var_revenue >= 0 else "negativo"
+    cor_var_conv = "positivo" if var_conversion >= 0 else "negativo"
 
     col = colunas[idx % 3]
     with col:
@@ -171,16 +213,18 @@ for idx, conta in enumerate(df_filtrado['account_display'].unique()):
             f"""
             <div class="card">
                 <h4>{conta}</h4>
-                <div style="
-                    display:grid;
-                    grid-template-columns: 1fr 1fr;
-                    gap:10px;
-                    font-size:17px;
-                ">
-                    <div><b>Sessões:</b><br>{total_sessions:,}</div>
-                    <div><b>Transações:</b><br>{total_transactions:,}</div>
-                    <div><b>Receita:</b><br><span class="receita">R$ {total_revenue:,.2f}</span></div>
-                    <div><b>Conversão:</b><br>{avg_conversion:.2f}%</div>
+                <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px; font-size:17px;">
+                    <div><b>Sessões:</b><br>{total_sessions:,.0f}<br>
+                        <span class="{cor_var_sess}">{var_sessions:+.1f}%</span></div>
+                    <div><b>Transações:</b><br>{total_transactions:,.0f}</div>
+                    <div><b>Receita:</b><br><span class="receita">R$ {total_revenue:,.2f}</span><br>
+                        <span class="{cor_var_rev}">{var_revenue:+.1f}%</span></div>
+                    <div><b>Conversão:</b><br>{avg_conversion:.2f}%<br>
+                        <span class="{cor_var_conv}">{var_conversion:+.1f}%</span></div>
+                </div>
+                <div style="margin-top:10px; font-size:14px;">
+                    <span style="color:{cor_meta};"><b>Meta:</b> R$ 100K<br>
+                    <b>Progresso:</b> {progresso_meta:.2f}%</span>
                 </div>
             </div>
             """,
@@ -196,7 +240,6 @@ if len(df_zeradas) > 0:
         "<h3 style='text-align:center; color:#F39200;'>⚠️ Contas com todos os valores zerados</h3>",
         unsafe_allow_html=True
     )
-
-    col1, col2, col3, col4 = st.columns(4)
+    colunas = st.columns(4)
     for idx, conta in enumerate(df_zeradas):
-        [col1, col2, col3, col4][idx % 4].markdown(f"- {conta}")
+        colunas[idx % 4].markdown(f"- {conta}")
