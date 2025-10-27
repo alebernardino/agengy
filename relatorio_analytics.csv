@@ -1,18 +1,18 @@
 account_name;account_display;property_id;property_display;sessions;transactions;purchaseRevenue;conversion_rate
-accounts/7924479;antesdeparis.com.br/;properties/385403764;http://antesdeparis.com.br - GA4;2881;17;9593.040004999997;0.5900728913571677
-accounts/83310144;roupa para brincar;properties/352119330;Roupa para Brincar – GA4;4782;80;29844.459924999996;1.6729401923881222
-accounts/93238830;Banka Panka;properties/347321073;Banka Panka – GA4;46389;361;165335.97001400002;0.7782017288581345
-accounts/115961136;Catucci Denim - Ecommerce;properties/276252312;Catucci Denim – GA4;2817;10;4947.900003000001;0.3549875754348598
+accounts/7924479;antesdeparis.com.br/;properties/385403764;http://antesdeparis.com.br - GA4;3868;21;11798.740004000001;0.5429162357807653
+accounts/83310144;roupa para brincar;properties/352119330;Roupa para Brincar – GA4;5922;109;38505.15992;1.840594393785883
+accounts/93238830;Banka Panka;properties/347321073;Banka Panka – GA4;59511;449;203456.659997;0.754482364604863
+accounts/115961136;Catucci Denim - Ecommerce;properties/276252312;Catucci Denim – GA4;3246;11;4990.6000030000005;0.33887861983980283
 accounts/147474108;Work Numbers;properties/395966714;www.worknumbers.com.br - GA4;0;0;0.0;0.0
-accounts/148830182;Madame Lost;properties/399555257;Madame Lost - GA4;2724;58;12462.099987;2.129221732745962
-accounts/195043710;Daksul Jeans;properties/396677505;Daksul Jeans - GA4;8330;53;20470.680019;0.6362545018007203
-accounts/202752600;Dimy;properties/314826732;Dimy – GA4;46138;355;165174.689995;0.7694308379210196
+accounts/148830182;Madame Lost;properties/399555257;Madame Lost - GA4;3306;64;14002.47999;1.9358741681790685
+accounts/195043710;Daksul Jeans;properties/396677505;Daksul Jeans - GA4;10180;62;24196.140020000003;0.6090373280943026
+accounts/202752600;Dimy;properties/314826732;Dimy – GA4;59024;393;183003.85998799998;0.6658308484684197
 accounts/202752600;Dimy;properties/431424359;Dimy Candy;0;0;0.0;0.0
-accounts/213256571;Dra Priscila Amaral;properties/294023102;Dra Priscila Amaral;23;0;0.0;0.0
-accounts/214929863;Santo Óleo | Google Analytics Account;properties/296314490;Propriedade Principal | https://santooleo.com.br/ - GA4;2683;61;13047.310002999999;2.2735743570629894
+accounts/213256571;Dra Priscila Amaral;properties/294023102;Dra Priscila Amaral;27;0;0.0;0.0
+accounts/214929863;Santo Óleo | Google Analytics Account;properties/296314490;Propriedade Principal | https://santooleo.com.br/ - GA4;3264;66;13527.380002;2.0220588235294117
 accounts/219147355;Donna Maira;properties/301925436;Donna Maira | GA4;0;0;0.0;0.0
-accounts/219147355;Donna Maira;properties/395804286;Donna Maira | UA - GA4;1079;2;211.399997;0.18535681186283595
-accounts/219218395;Laundrysp.com;properties/394489326;Laundrysp.com – GA4;5217;29;17778.300013;0.5558750239601303
+accounts/219147355;Donna Maira;properties/395804286;Donna Maira | UA - GA4;1444;3;345.269999;0.20775623268698062
+accounts/219218395;Laundrysp.com;properties/394489326;Laundrysp.com – GA4;7485;42;24304.200007;0.561122244488978
 accounts/222958741;Drafmil;properties/324850916;(inativa);0;0;0.0;0.0
 accounts/222958741;Drafmil;properties/325581948;Kordi (peças);0;0;0.0;0.0
 accounts/222958741;Drafmil;properties/325532524;Kordi autopeças;0;0;0.0;0.0
@@ -20,46 +20,46 @@ accounts/222958741;Drafmil;properties/325842883;Kordi UA – GA4;0;0;0.0;0.0
 accounts/222958741;Drafmil;properties/383269348;(inativa);0;0;0.0;0.0
 accounts/222958741;Drafmil;properties/383249665;drafmilatacado.com.br - GA4;0;0;0.0;0.0
 accounts/222958741;Drafmil;properties/405129432;(inativa);0;0;0.0;0.0
-accounts/222958741;Drafmil;properties/461291299;drafmil.com.br - GA4;880;0;0.0;0.0
-accounts/235393614;Nome de Prata;properties/324374492;Nome de Prata – GA4;7037;50;12132.050006;0.7105300554213444
+accounts/222958741;Drafmil;properties/461291299;drafmil.com.br - GA4;1101;0;0.0;0.0
+accounts/235393614;Nome de Prata;properties/324374492;Nome de Prata – GA4;9356;77;17223.970005000003;0.8230012825994014
 accounts/235393614;Nome de Prata;properties/369352258;Nome de Prata - RD Station – GA4;0;0;0.0;0.0
-accounts/235393614;Nome de Prata;properties/369345561;Nome de Prata - RD Station – GA4;5114;0;0.0;0.0
+accounts/235393614;Nome de Prata;properties/369345561;Nome de Prata - RD Station – GA4;6842;0;0.0;0.0
 accounts/245131066;Estoque Lucrativo;properties/336805307;Estoque Lucrativo - Leads – GA4;0;0;0.0;0.0
 accounts/252724152;Lucro e Moda;properties/347483908;lucroemoda.com.br;0;0;0.0;0.0
-accounts/256189702;Onça Preta;properties/352201220;oncapreta.com.br – GA4 - Secudário;3080;6;1790.059999;0.19480519480519481
-accounts/256189702;Onça Preta;properties/354489682;oncapreta.com.br – GA4;3134;6;1790.059999;0.1914486279514997
+accounts/256189702;Onça Preta;properties/352201220;oncapreta.com.br – GA4 - Secudário;4018;7;2542.060001;0.17421602787456447
+accounts/256189702;Onça Preta;properties/354489682;oncapreta.com.br – GA4;4086;7;2542.0600010000003;0.17131669114047968
 accounts/256189702;Onça Preta;properties/426943587;Onça Preta - Landing Page - RD;0;0;0.0;0.0
-accounts/259243480;ROSE LIVING;properties/356518211;ROSE LIVING;354;2;301.509999;0.5649717514124294
+accounts/259243480;ROSE LIVING;properties/356518211;ROSE LIVING;385;2;301.509999;0.5194805194805194
 accounts/267514535;Conta do Google Ads;properties/374571212;nanicervan.com.br;0;0;0.0;0.0
 accounts/271823701;Mapi Pijamas ;properties/381276038;www.usomapi.com;0;0;0.0;0.0
 accounts/301091603;Pargo Watersports;properties/425864993;Pargo Watersports;0;0;0.0;0.0
-accounts/303526119;www.cactus.com.br;properties/428757900;www.cactus.com.br;4168;8;4370.600007;0.19193857965451055
-accounts/303632770;Lizi e Lizi E-commerce 2024;properties/428844533;Lizi e Lizi;5906;22;8334.240309;0.37250253979004405
-accounts/307916904;WN7;properties/433910328;WN7 Performance Wix;18;0;0.0;0.0
-accounts/308487177;Ornabela;properties/434643506;Ornabela;715;0;0.0;0.0
-accounts/309093688;Vest Prado;properties/435377505;Vest Prado;584;0;0.0;0.0
-accounts/315019120;Rs Joias By Keli Sordi;properties/442549358;Rs Joias By Keli Sordi;485;0;0.0;0.0
-accounts/315019120;Rs Joias By Keli Sordi;properties/507913048;RS Joias Shopify;1966;0;0.0;0.0
+accounts/303526119;www.cactus.com.br;properties/428757900;www.cactus.com.br;5227;8;4370.600007;0.15305146355462024
+accounts/303632770;Lizi e Lizi E-commerce 2024;properties/428844533;Lizi e Lizi;7228;28;10800.930312;0.387382401770891
+accounts/307916904;WN7;properties/433910328;WN7 Performance Wix;30;0;0.0;0.0
+accounts/308487177;Ornabela;properties/434643506;Ornabela;1100;2;429.5;0.18181818181818182
+accounts/309093688;Vest Prado;properties/435377505;Vest Prado;701;0;0.0;0.0
+accounts/315019120;Rs Joias By Keli Sordi;properties/442549358;Rs Joias By Keli Sordi;581;0;0.0;0.0
+accounts/315019120;Rs Joias By Keli Sordi;properties/507913048;RS Joias Shopify;2697;0;0.0;0.0
 accounts/315944702;VideLook;properties/443619392;Ecommerce VideLook;0;0;0.0;0.0
-accounts/318699820;Bebelline;properties/446686234;Bebelline;804;6;534.660003;0.7462686567164178
+accounts/318699820;Bebelline;properties/446686234;Bebelline;1004;7;620.4700029999999;0.697211155378486
 accounts/322105903;site minas leds - mercado livre;properties/450678531;ecommerce Minas Leds;0;0;0.0;0.0
-accounts/322105903;site minas leds - mercado livre;properties/474019290;Minas Leds Tray;1545;2;231.380002;0.12944983818770225
+accounts/322105903;site minas leds - mercado livre;properties/474019290;Minas Leds Tray;1976;2;231.380002;0.10121457489878542
 accounts/322877519;Onda Verão;properties/451613944;Onda Verão ;99;0;0.0;0.0
 accounts/324683544;PIMENTTA ROSA CONCEPT LTDA;properties/453601581;Ecom Pimentta Rosa;0;0;0.0;0.0
 accounts/326580375;BONACUSTICA ESQUADRIAS EM PVC E ALUMINIO LTDA;properties/455812502;Site Bonacustica;0;0;0.0;0.0
-accounts/327334574;Bambaro [Conta];properties/429504595;Bambaro - Móveis de Luxo;570;0;0.0;0.0
+accounts/327334574;Bambaro [Conta];properties/429504595;Bambaro - Móveis de Luxo;694;0;0.0;0.0
 accounts/327334574;Bambaro [Conta];properties/456613590;Propriedade secundária;0;0;0.0;0.0
 accounts/336408352;VESTE DO CÉU;properties/467189588;E-commerce Veste do Céu;0;0;0.0;0.0
-accounts/340556643;Wild World LTDA;properties/472234801;Taylor Baptista;178;0;0.0;0.0
-accounts/344355950;Luci-Mar Moda Praia;properties/476557436;Luci_Mar Moda Praia;10919;133;47010.759990000006;1.2180602619287482
-accounts/344883255;Rizzatti;properties/477317479;Rizzatti;4512;45;10155.329998000003;0.9973404255319149
+accounts/340556643;Wild World LTDA;properties/472234801;Taylor Baptista;217;0;0.0;0.0
+accounts/344355950;Luci-Mar Moda Praia;properties/476557436;Luci_Mar Moda Praia;13634;154;56248.85998;1.1295291183805192
+accounts/344883255;Rizzatti;properties/477317479;Rizzatti;5527;53;11854.449999;0.9589288945178217
 accounts/344883255;Rizzatti;properties/487794733;Rizzatti E-commerce;0;0;0.0;0.0
-accounts/355946124;Verde & Estilo;properties/490116707;Site Verde & Estilo;467;0;0.0;0.0
-accounts/356647718;Mena Bijuterias;properties/490971438;Stephanie Amaral de Gois;4295;82;28852.369992;1.909196740395809
+accounts/355946124;Verde & Estilo;properties/490116707;Site Verde & Estilo;564;0;0.0;0.0
+accounts/356647718;Mena Bijuterias;properties/490971438;Stephanie Amaral de Gois;5207;97;33699.129993999995;1.8628768964855003
 accounts/358275068;Vest Prado ;properties/492845760;E-commerce - Magazord;0;0;0.0;0.0
 accounts/361191411;Oftalmologista Dr. Danilo Cavallini;properties/496470950;Site drdanilocavallini.com.br;0;0;0.0;0.0
-accounts/361504044;Danilo Cavallini;properties/496831940;Site Danilo Cavallini;2095;0;0.0;0.0
-accounts/366712926;Cocamar;properties/503042701;Cocamar e-commerce atacado;5206;4;7408.410001;0.0768344218209758
-accounts/369114183;INVICCI;properties/505855697;LP Invicci;24;0;0.0;0.0
-accounts/369998300;GAIALE;properties/507002036;E-commerce Gaiale;918;8;1064.900003;0.8714596949891068
-accounts/372174693;LOOK DA MARI;properties/509598807;Ecom Look da Mari;305;8;1422.490008;2.622950819672131
+accounts/361504044;Danilo Cavallini;properties/496831940;Site Danilo Cavallini;2182;0;0.0;0.0
+accounts/366712926;Cocamar;properties/503042701;Cocamar e-commerce atacado;5494;5;9917.380004;0.09100837277029487
+accounts/369114183;INVICCI;properties/505855697;LP Invicci;274;0;0.0;0.0
+accounts/369998300;GAIALE;properties/507002036;E-commerce Gaiale;1020;8;1064.900003;0.7843137254901961
+accounts/372174693;LOOK DA MARI;properties/509598807;Ecom Look da Mari;1449;29;5197.250007;2.001380262249828
