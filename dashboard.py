@@ -135,7 +135,17 @@ if st.session_state["page"] == "dashboard":
             st.markdown(
                 f"""
                 <div class="card" style="cursor:pointer;">
-                    <h4 style="color:#005B82; font-size:40px; font-weight:600; margin-bottom:18px; text-align:left;">
+                    <h4 title="{conta}" style="
+                        color:#005B82;
+                        font-size:34px;
+                        font-weight:600;
+                        margin-bottom:18px;
+                        text-align:left;
+                        white-space: nowrap;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        display: block;
+                        max-width: 350px;">
                         {conta}
                     </h4>
                     <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px; font-size:24px;">
