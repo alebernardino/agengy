@@ -1,4 +1,4 @@
-import pandas as pd, os, streamlit as st, altair as alt
+import pandas as pd, os, streamlit as st, altair as alt, numpy as np
 from datetime import date, datetime, timedelta
 from calendar import monthrange
 
@@ -35,7 +35,6 @@ def grafico_combinado(df, metric, titulo):
     # 🔹 Exibe gráfico combinado
     st.altair_chart(alt.layer(bar, line).properties(title=titulo), use_container_width=True)
 
-
 # ======================
 # 🧭 Controle de navegação
 # ======================
@@ -61,6 +60,27 @@ total_dias_mes = monthrange(hoje.year, hoje.month)[1]
 # ======================
 st.markdown("""
 <style>
+/* 🌟 Efeito de hover nos cards clicáveis */
+a > .card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: block;
+}
+
+a > .card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+/* Rodapé do card */
+.card-footer {
+    margin-top: 14px;
+    font-size: 14px;
+    color: #6b7280;
+    text-align: center;
+    font-style: italic;
+}
+            
     body, .stApp { background-color: #FFFFFF !important; color: #1D1D1B !important; font-family: 'Montserrat', sans-serif !important; }
     h1, h2, h3, h4 { color: #005B82 !important; font-weight: 600 !important; }
     div[data-baseweb="select"], .stTextInput > div > div > input { background-color: #FFFFFF !important; color: #1D1D1B !important; border: 1px solid #ADAFAF !important; border-radius: 6px !important; }
@@ -75,19 +95,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ======================
-# Cabeçalho com logo
-# ======================
-col_logo, col_titulo = st.columns([0.15, 0.85])
-with col_logo:
-    st.image(logo_path)
-with col_titulo:
-    st.title("Dashboard de Contas – Google Analytics 4")
-    data_extracao = date.today().strftime("%d/%m/%Y")
-    st.markdown(f"**🕒 Dados extraídos em:** {data_extracao}")
-
-st.markdown("---")
-
-# ======================
 # Função para carregar dados
 # ======================
 @st.cache_data
@@ -100,11 +107,32 @@ def carregar_dados():
 df = carregar_dados()
 
 # ======================
+# Cabeçalho com logo
+# ======================
+col_logo, col_titulo = st.columns([0.15, 0.85])
+with col_logo:
+    st.image(logo_path)
+with col_titulo:
+    st.title("Dashboard de Contas – Google Analytics 4")
+    data_extracao = date.today().strftime("%d/%m/%Y")
+    data_extracao = max(df['date']).strftime("%d/%m/%Y")  
+    st.markdown(f"**🕒 Dados extraídos em:** {data_extracao}")
+
+st.markdown("---")
+
+# Detecta se há parâmetro ?conta= na URL e vai direto pra tela de detalhes
+query_params = st.query_params
+if "conta" in query_params:
+    st.session_state["conta_selecionada"] = query_params["conta"]
+    st.session_state["page"] = "detalhes"
+
+
+# ======================
 # ========== DASHBOARD PRINCIPAL ==========
 # ======================
 if st.session_state["page"] == "dashboard":
     df_validas = df[df['sessions'] > 0]
-    contas_disponiveis = sorted(df_validas['account_display'].unique())
+    contas_disponiveis = sorted(df_validas['property_display'].unique())
 
     selecionadas = st.multiselect(
         "Selecione uma ou mais contas:",
@@ -113,15 +141,23 @@ if st.session_state["page"] == "dashboard":
     )
 
     if selecionadas:
-        df_filtrado = df_validas[df_validas['account_display'].isin(selecionadas)]
+        df_filtrado = df_validas[df_validas['property_display'].isin(selecionadas)]
     else:
         df_filtrado = df_validas
+
+    # 🔹 Cria coluna de atingimento previsto
+    df_atingimento = df_filtrado.groupby('property_display')['purchaseRevenue'].sum().reset_index()
+    df_atingimento['atingimento'] = (df_atingimento['purchaseRevenue'] / meta_geral) * 100
+
+    # 🔹 Ordena do menor para o maior
+    df_atingimento = df_atingimento.sort_values('atingimento', ascending=True)
 
     st.markdown("---")
 
     colunas = st.columns(3)
-    for idx, conta in enumerate(df_filtrado['account_display'].unique()):
-        conta_df = df_filtrado[df_filtrado['account_display'] == conta]
+
+    for idx, conta in enumerate(df_atingimento['property_display'].unique()):
+        conta_df = df_filtrado[df_filtrado['property_display'] == conta]
         total_sessions = conta_df['sessions'].sum()
         total_revenue = conta_df['purchaseRevenue'].sum()
         var_revenue = conta_df['purchaseRevenue'].pct_change().mean() * 100
@@ -130,48 +166,50 @@ if st.session_state["page"] == "dashboard":
         cor_meta = "#16a34a" if progresso_meta >= 100 else "#F39200"
         cor_var_rev = "green" if var_revenue >= 0 else "red"
 
+        conta_url = f"?conta={conta}"
+
         col = colunas[idx % 3]
         with col:
             st.markdown(
                 f"""
-                <div class="card" style="cursor:pointer;">
-                    <h4 title="{conta}" style="
-                        color:#005B82;
-                        font-size:34px;
-                        font-weight:600;
-                        margin-bottom:18px;
-                        text-align:left;
-                        white-space: nowrap;
-                        overflow: hidden;
-                        text-overflow: ellipsis;
-                        display: block;
-                        max-width: 350px;">
-                        {conta}
-                    </h4>
-                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px; font-size:24px;">
-                        <div>
-                            <b>Receita:</b><br>
-                            <span style='color:#F39200; font-size:30px; font-weight:700;'>R$ {total_revenue:,.2f}</span><br>
-                            <span style="font-size:18px;"><b>Variação:</b>
-                            <span style="color:{cor_var_rev}; font-size:16px;">{var_revenue:+.1f}%</span></span>
+                <a href="{conta_url}" target="_self" style="text-decoration:none;">
+                    <div class="card">
+                        <h4 title="{conta}" style="
+                            color:#005B82;
+                            font-size:30px;
+                            font-weight:600;
+                            margin-bottom:18px;
+                            text-align:left;
+                            white-space: nowrap;
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            display: block;
+                            max-width: 350px;">
+                            {conta}
+                        </h4>
+                        <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px; font-size:22px;">
+                            <div>
+                                <b>Receita:</b><br>
+                                <span style='color:#F39200; font-size:28px; font-weight:700;'>R$ {total_revenue:,.2f}</span><br>
+                                <span style="font-size:16px;"><b>Variação:</b>
+                                <span style="color:{cor_var_rev}; font-size:16px;">{var_revenue:+.1f}%</span></span>
+                            </div>
+                            <div>
+                                <b>Sessões:</b><br>{total_sessions:,.0f}
+                            </div>
                         </div>
-                        <div>
-                            <b>Sessões:</b><br>{total_sessions:,.0f}
+                        <div style="margin-top:10px; font-size:16px; display:flex; justify-content:space-between;">
+                            <span style="color:{cor_meta};"><b>Atingimento previsto:</b> {progresso_meta:.2f}%</span>
+                            <span style="color:{cor_meta};"><b>Meta total:</b> R$ {meta_geral:,.0f}</span>
+                        </div>
+                        <div class="card-footer">
+                            Clique para ver os detalhes da conta
                         </div>
                     </div>
-                    <div style="margin-top:10px; font-size:18px; display:flex; justify-content:space-between;">
-                        <span style="color:{cor_meta};"><b>Atingimento previsto:</b> {progresso_meta:.2f}%</span>
-                        <span style="color:{cor_meta};"><b>Meta total:</b> R$ {meta_geral:,.0f}</span>
-                    </div>
-                </div>
+                </a>
                 """,
                 unsafe_allow_html=True
             )
-
-            if st.button("Abrir detalhes", key=f"btn_{idx}_{hash(conta)}"):
-                st.session_state["page"] = "detalhes"
-                st.session_state["conta_selecionada"] = conta
-                st.rerun()
 
 # ======================
 # ========== PÁGINA DE DETALHES ==========
@@ -185,17 +223,37 @@ if st.session_state["page"] == "detalhes":
 
     conta = st.session_state["conta_selecionada"]
 
+    # 💅 Corrige estilo do botão "Voltar"
+    st.markdown("""
+    <style>
+    div[data-testid="stButton"] button {
+        background-color: #005B82 !important;
+        color: white !important;
+        font-weight: 600 !important;
+        border-radius: 8px !important;
+        border: none !important;
+        transition: background-color 0.2s ease-in-out;
+    }
+    div[data-testid="stButton"] button:hover {
+        background-color: #0076A3 !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
+
     if st.button("⬅️ Voltar para o painel principal"):
         st.session_state["page"] = "dashboard"
         st.session_state.pop("conta_selecionada", None)
+        st.query_params.clear()
         st.rerun()
+
 
     st.title(f"📊 Detalhes da conta: {conta}")
 
     # ======================
     # 🔗 Card de links da conta
     # ======================
-    df_conta = df[df["account_display"] == conta].copy()
+    df_conta = df[df["property_display"] == conta].copy()
     links_conta = df_conta["links"].dropna().unique()
     links_conta = links_conta[0] if len(links_conta) > 0 else ""
     lista_links = [l.strip() for l in links_conta.split(";") if l.strip()]
