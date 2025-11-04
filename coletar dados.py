@@ -54,10 +54,32 @@ for acc in accounts:
         })
 
 # ==========================
+# 📁 Lê o arquivo de configuração e filtra contas ativas
+# ==========================
+config = pd.read_csv("contas_config.csv", sep=';')
+
+# Normaliza e filtra somente as ativas (True, true, 1, etc.)
+config['ativa'] = config['ativa'].astype(str).str.lower().isin(['true', '1', 'sim'])
+config_ativas = config[config['ativa'] == True]
+
+# Filtra as propriedades do GA4 conforme o arquivo de configuração
+props_filtradas = [
+    p for p in all_properties
+    if any(
+        (p['account_display'].strip() == c['account_display'].strip()) and 
+        (p['property_display'].strip() == c['property_display'].strip())
+        for _, c in config_ativas.iterrows()
+    )
+]
+
+print(f"🔍 Total de propriedades encontradas: {len(all_properties)}")
+print(f"✅ Propriedades ativas para coleta: {len(props_filtradas)}")
+
+# ==========================
 # Período de extração: últimos 65 dias
 # ==========================
 today = date.today()
-inicio_total = today - timedelta(days=65)
+inicio_total = today - timedelta(days=100)
 fim_total = today
 
 # ==========================
@@ -100,7 +122,7 @@ def run_ga_daily(property_id, start_date, end_date):
         return pd.DataFrame(data)
 
     except Exception as e:
-        print(f"Erro ao coletar dados para {property_id}: {e}")
+        print(f"❌ Erro ao coletar dados para {property_id}: {e}")
         return pd.DataFrame(columns=["date","sessions","transactions","purchaseRevenue","conversion_rate"])
 
 # ==========================
@@ -108,8 +130,8 @@ def run_ga_daily(property_id, start_date, end_date):
 # ==========================
 base_dados = []
 
-for idx, prop in enumerate(all_properties, start=1):
-    print(f"[{idx}/{len(all_properties)}] Coletando dados da propriedade: {prop['property_display']} - {prop['property_id']}")
+for idx, prop in enumerate(props_filtradas, start=1):
+    print(f"[{idx}/{len(props_filtradas)}] Coletando dados da propriedade: {prop['property_display']} - {prop['property_id']}")
     df_total = run_ga_daily(prop['property_id'], inicio_total, fim_total)
 
     # Adiciona colunas de conta e propriedade
@@ -124,5 +146,5 @@ for idx, prop in enumerate(all_properties, start=1):
 df_final = pd.concat(base_dados, ignore_index=True)
 df_final = df_final.sort_values(['account_display','property_display','date'])
 
-df_final.to_csv('relatorio_analytics_65dias.csv', index=False, sep=';')
-print(f"✅ Relatório de 65 dias salvo: {len(df_final)} linhas")
+df_final.to_csv('ga4_100.csv', index=False, sep=';')
+print(f"✅ Relatório de 100 dias salvo: {len(df_final)} linhas")

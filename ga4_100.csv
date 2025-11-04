@@ -46,7 +46,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-28;24;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
 2025-10-29;27;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
 2025-10-30;37;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
-2025-10-31;1;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
+2025-10-31;37;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
+2025-11-01;16;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
+2025-11-02;13;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
+2025-11-03;33;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
+2025-11-04;17;0;0.0;0.0;Bambaro [Conta];Bambaro - Móveis de Luxo
+2025-07-27;1531;5;706.530002;0.32658393207054215;Banka Panka;Banka Panka – GA4
+2025-07-28;1445;9;3059.900005;0.6228373702422145;Banka Panka;Banka Panka – GA4
+2025-07-29;1138;9;2134.470001;0.7908611599297013;Banka Panka;Banka Panka – GA4
+2025-07-30;1096;10;3364.690005;0.9124087591240875;Banka Panka;Banka Panka – GA4
+2025-07-31;1271;7;918.279997;0.5507474429583006;Banka Panka;Banka Panka – GA4
+2025-08-01;1077;4;418.699999;0.3714020427112349;Banka Panka;Banka Panka – GA4
+2025-08-02;1294;7;1369.470001;0.5409582689335394;Banka Panka;Banka Panka – GA4
+2025-08-03;1583;9;3024.159999;0.5685407454200885;Banka Panka;Banka Panka – GA4
+2025-08-04;1345;6;1723.01;0.44609665427509293;Banka Panka;Banka Panka – GA4
+2025-08-05;1142;5;608.470001;0.43782837127845886;Banka Panka;Banka Panka – GA4
+2025-08-06;1155;7;1705.829999;0.6060606060606061;Banka Panka;Banka Panka – GA4
+2025-08-07;1141;7;1474.609994;0.6134969325153374;Banka Panka;Banka Panka – GA4
+2025-08-08;1112;10;3673.9299899999996;0.8992805755395683;Banka Panka;Banka Panka – GA4
+2025-08-09;1060;4;1141.739999;0.37735849056603776;Banka Panka;Banka Panka – GA4
+2025-08-10;1295;3;575.889997;0.23166023166023164;Banka Panka;Banka Panka – GA4
+2025-08-11;1306;7;1281.760002;0.5359877488514548;Banka Panka;Banka Panka – GA4
+2025-08-12;1226;7;1984.940005;0.5709624796084829;Banka Panka;Banka Panka – GA4
+2025-08-13;1181;6;1706.65;0.5080440304826418;Banka Panka;Banka Panka – GA4
+2025-08-14;1319;16;3953.130005;1.2130401819560273;Banka Panka;Banka Panka – GA4
+2025-08-15;1042;10;3367.020004;0.9596928982725527;Banka Panka;Banka Panka – GA4
+2025-08-16;435;6;1710.959994;1.3793103448275863;Banka Panka;Banka Panka – GA4
+2025-08-17;520;10;2696.419997;1.9230769230769231;Banka Panka;Banka Panka – GA4
+2025-08-18;728;8;1797.379999;1.098901098901099;Banka Panka;Banka Panka – GA4
+2025-08-19;792;4;1385.809997;0.5050505050505051;Banka Panka;Banka Panka – GA4
+2025-08-20;797;11;2317.520001;1.3801756587202008;Banka Panka;Banka Panka – GA4
+2025-08-21;656;7;2012.039999;1.0670731707317074;Banka Panka;Banka Panka – GA4
+2025-08-22;603;9;2131.2;1.4925373134328357;Banka Panka;Banka Panka – GA4
+2025-08-23;503;8;2349.690008;1.5904572564612325;Banka Panka;Banka Panka – GA4
+2025-08-24;557;3;1329.170003;0.5385996409335727;Banka Panka;Banka Panka – GA4
+2025-08-25;649;7;1442.280005;1.078582434514638;Banka Panka;Banka Panka – GA4
+2025-08-26;690;9;2786.039996;1.3043478260869565;Banka Panka;Banka Panka – GA4
 2025-08-27;1104;10;2832.660006;0.9057971014492754;Banka Panka;Banka Panka – GA4
 2025-08-28;1020;4;461.740001;0.39215686274509803;Banka Panka;Banka Panka – GA4
 2025-08-29;921;4;1282.099999;0.43431053203040176;Banka Panka;Banka Panka – GA4
@@ -111,8 +146,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;2524;19;10204.569992;0.7527733755942948;Banka Panka;Banka Panka – GA4
 2025-10-28;2166;17;7791.660008;0.7848568790397045;Banka Panka;Banka Panka – GA4
 2025-10-29;2306;15;8419.139991;0.6504770164787511;Banka Panka;Banka Panka – GA4
-2025-10-30;1855;12;5435.359995;0.646900269541779;Banka Panka;Banka Panka – GA4
-2025-10-31;80;0;0.0;0.0;Banka Panka;Banka Panka – GA4
+2025-10-30;1942;14;6084.879997;0.7209062821833162;Banka Panka;Banka Panka – GA4
+2025-10-31;2122;12;8286.380008;0.5655042412818096;Banka Panka;Banka Panka – GA4
+2025-11-01;2209;18;7467.279999;0.8148483476686283;Banka Panka;Banka Panka – GA4
+2025-11-02;2837;15;7225.830001;0.5287275290800141;Banka Panka;Banka Panka – GA4
+2025-11-03;2623;27;10826.820007;1.0293556995806328;Banka Panka;Banka Panka – GA4
+2025-11-04;1481;10;3317.939997;0.675219446320054;Banka Panka;Banka Panka – GA4
+2025-07-27;83;0;0.0;0.0;Bebelline;Bebelline
+2025-07-28;126;0;0.0;0.0;Bebelline;Bebelline
+2025-07-29;98;1;165.430002;1.0204081632653061;Bebelline;Bebelline
+2025-07-30;83;1;156.879999;1.2048192771084338;Bebelline;Bebelline
+2025-07-31;71;1;99.969999;1.4084507042253522;Bebelline;Bebelline
+2025-08-01;96;1;152.699999;1.0416666666666665;Bebelline;Bebelline
+2025-08-02;52;0;0.0;0.0;Bebelline;Bebelline
+2025-08-03;74;0;0.0;0.0;Bebelline;Bebelline
+2025-08-04;65;0;0.0;0.0;Bebelline;Bebelline
+2025-08-05;62;0;0.0;0.0;Bebelline;Bebelline
+2025-08-06;62;0;0.0;0.0;Bebelline;Bebelline
+2025-08-07;76;0;0.0;0.0;Bebelline;Bebelline
+2025-08-08;51;1;164.499999;1.9607843137254901;Bebelline;Bebelline
+2025-08-09;47;0;0.0;0.0;Bebelline;Bebelline
+2025-08-10;80;2;314.61;2.5;Bebelline;Bebelline
+2025-08-11;80;0;0.0;0.0;Bebelline;Bebelline
+2025-08-12;50;2;415.500001;4.0;Bebelline;Bebelline
+2025-08-13;39;0;0.0;0.0;Bebelline;Bebelline
+2025-08-14;96;1;169.8;1.0416666666666665;Bebelline;Bebelline
+2025-08-15;110;0;0.0;0.0;Bebelline;Bebelline
+2025-08-16;68;1;133.310002;1.4705882352941175;Bebelline;Bebelline
+2025-08-17;40;0;0.0;0.0;Bebelline;Bebelline
+2025-08-18;12;0;0.0;0.0;Bebelline;Bebelline
+2025-08-19;23;0;0.0;0.0;Bebelline;Bebelline
+2025-08-20;12;0;0.0;0.0;Bebelline;Bebelline
+2025-08-21;9;0;0.0;0.0;Bebelline;Bebelline
+2025-08-22;23;0;0.0;0.0;Bebelline;Bebelline
+2025-08-23;11;0;0.0;0.0;Bebelline;Bebelline
+2025-08-24;11;0;0.0;0.0;Bebelline;Bebelline
+2025-08-25;21;0;0.0;0.0;Bebelline;Bebelline
+2025-08-26;9;0;0.0;0.0;Bebelline;Bebelline
 2025-08-27;24;0;0.0;0.0;Bebelline;Bebelline
 2025-08-28;46;1;85.809998;2.1739130434782608;Bebelline;Bebelline
 2025-08-29;31;0;0.0;0.0;Bebelline;Bebelline
@@ -178,6 +248,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-28;139;0;0.0;0.0;Bebelline;Bebelline
 2025-10-29;38;1;57.310002;2.631578947368421;Bebelline;Bebelline
 2025-10-30;30;0;0.0;0.0;Bebelline;Bebelline
+2025-10-31;39;1;99.799999;2.564102564102564;Bebelline;Bebelline
+2025-11-01;36;1;224.599999;2.7777777777777777;Bebelline;Bebelline
+2025-11-02;24;0;0.0;0.0;Bebelline;Bebelline
+2025-11-03;52;0;0.0;0.0;Bebelline;Bebelline
+2025-11-04;23;0;0.0;0.0;Bebelline;Bebelline
+2025-07-27;70;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-07-28;80;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-07-29;74;1;260.099997;1.3513513513513513;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-07-30;49;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-07-31;85;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-01;92;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-02;70;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-03;59;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-04;80;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-05;92;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-06;87;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-07;67;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-08;88;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-09;87;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-10;62;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-11;59;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-12;67;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-13;83;1;287.230002;1.2048192771084338;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-14;67;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-15;69;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-16;74;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-17;48;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-18;107;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-19;65;1;369.519998;1.5384615384615385;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-20;89;1;661.920001;1.1235955056179776;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-21;74;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-22;51;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-23;95;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-24;238;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-25;141;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-08-26;90;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
 2025-08-27;86;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
 2025-08-28;68;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
 2025-08-29;128;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
@@ -242,8 +348,12 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;103;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
 2025-10-28;77;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
 2025-10-29;79;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
-2025-10-30;64;1;277.709999;1.5625;Catucci Denim - Ecommerce;Catucci Denim – GA4
-2025-10-31;71;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-10-30;70;1;277.709999;1.4285714285714286;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-10-31;141;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-11-01;68;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-11-02;58;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-11-03;89;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
+2025-11-04;56;0;0.0;0.0;Catucci Denim - Ecommerce;Catucci Denim – GA4
 2025-08-29;12;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
 2025-08-30;2;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
 2025-08-31;6;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
@@ -307,7 +417,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-28;47;1;516.360001;2.127659574468085;Cocamar;Cocamar e-commerce atacado
 2025-10-29;44;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
 2025-10-30;36;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
-2025-10-31;1;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
+2025-10-31;24;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
+2025-11-01;31;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
+2025-11-02;20;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
+2025-11-03;94;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
+2025-11-04;52;0;0.0;0.0;Cocamar;Cocamar e-commerce atacado
+2025-07-27;98;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-07-28;139;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-07-29;110;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-07-30;124;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-07-31;171;2;561.400001;1.1695906432748537;Daksul Jeans;Daksul Jeans - GA4
+2025-08-01;209;1;159.769998;0.4784688995215311;Daksul Jeans;Daksul Jeans - GA4
+2025-08-02;273;3;1954.849999;1.098901098901099;Daksul Jeans;Daksul Jeans - GA4
+2025-08-03;319;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-04;272;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-05;231;1;472.260002;0.4329004329004329;Daksul Jeans;Daksul Jeans - GA4
+2025-08-06;264;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-07;353;2;540.549997;0.56657223796034;Daksul Jeans;Daksul Jeans - GA4
+2025-08-08;321;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-09;214;1;651.499999;0.46728971962616817;Daksul Jeans;Daksul Jeans - GA4
+2025-08-10;257;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-11;356;1;258.290001;0.2808988764044944;Daksul Jeans;Daksul Jeans - GA4
+2025-08-12;375;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-13;327;1;815.399998;0.3058103975535168;Daksul Jeans;Daksul Jeans - GA4
+2025-08-14;314;2;619.200004;0.6369426751592357;Daksul Jeans;Daksul Jeans - GA4
+2025-08-15;251;1;125.729999;0.398406374501992;Daksul Jeans;Daksul Jeans - GA4
+2025-08-16;236;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-17;275;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-18;377;2;534.329998;0.5305039787798408;Daksul Jeans;Daksul Jeans - GA4
+2025-08-19;370;1;285.399999;0.2702702702702703;Daksul Jeans;Daksul Jeans - GA4
+2025-08-20;401;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-21;494;3;809.199997;0.6072874493927125;Daksul Jeans;Daksul Jeans - GA4
+2025-08-22;421;2;744.950001;0.4750593824228029;Daksul Jeans;Daksul Jeans - GA4
+2025-08-23;347;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-24;442;1;238.539999;0.22624434389140274;Daksul Jeans;Daksul Jeans - GA4
+2025-08-25;419;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-08-26;398;5;1860.549993;1.256281407035176;Daksul Jeans;Daksul Jeans - GA4
 2025-08-27;401;1;273.890001;0.24937655860349126;Daksul Jeans;Daksul Jeans - GA4
 2025-08-28;342;1;238.539999;0.29239766081871343;Daksul Jeans;Daksul Jeans - GA4
 2025-08-29;368;2;958.330002;0.5434782608695652;Daksul Jeans;Daksul Jeans - GA4
@@ -372,8 +517,34 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;345;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
 2025-10-28;388;9;3386.559996;2.3195876288659796;Daksul Jeans;Daksul Jeans - GA4
 2025-10-29;395;3;1165.909999;0.7594936708860759;Daksul Jeans;Daksul Jeans - GA4
-2025-10-30;275;3;1056.290002;1.090909090909091;Daksul Jeans;Daksul Jeans - GA4
-2025-10-31;10;0;0.0;0.0;Daksul Jeans;Daksul Jeans - GA4
+2025-10-30;442;3;1056.290002;0.6787330316742082;Daksul Jeans;Daksul Jeans - GA4
+2025-10-31;569;2;450.829996;0.35149384885764495;Daksul Jeans;Daksul Jeans - GA4
+2025-11-01;487;7;2553.750001;1.4373716632443532;Daksul Jeans;Daksul Jeans - GA4
+2025-11-02;562;3;1421.779998;0.5338078291814947;Daksul Jeans;Daksul Jeans - GA4
+2025-11-03;496;3;809.189999;0.6048387096774194;Daksul Jeans;Daksul Jeans - GA4
+2025-11-04;169;2;459.25;1.183431952662722;Daksul Jeans;Daksul Jeans - GA4
+2025-07-27;1;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-07-28;16;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-07-29;13;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-07-30;6;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-07-31;5;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-01;8;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-02;3;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-03;1;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-04;3;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-05;12;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-06;5;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-07;5;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-08;13;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-09;10;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-10;5;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-11;16;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-19;15;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-20;2;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-21;3;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-22;1;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-24;1;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-08-25;3;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
 2025-08-27;1;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
 2025-08-28;2;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
 2025-08-29;2;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
@@ -436,8 +607,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;30;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
 2025-10-28;30;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
 2025-10-29;18;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
-2025-10-30;15;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
-2025-10-31;1;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-10-30;21;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-10-31;13;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-11-01;11;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-11-02;9;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-11-03;27;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-11-04;13;0;0.0;0.0;Danilo Cavallini;Site Danilo Cavallini
+2025-07-27;4020;0;0.0;0.0;Dimy;Dimy – GA4
+2025-07-28;5965;0;0.0;0.0;Dimy;Dimy – GA4
+2025-07-29;6439;0;0.0;0.0;Dimy;Dimy – GA4
+2025-07-30;4581;0;0.0;0.0;Dimy;Dimy – GA4
+2025-07-31;3685;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-01;3378;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-02;3360;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-03;3670;1;823.360002;0.027247956403269755;Dimy;Dimy – GA4
+2025-08-04;3594;1;133.479998;0.02782415136338342;Dimy;Dimy – GA4
+2025-08-05;3591;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-06;3376;1;62.559999;0.02962085308056872;Dimy;Dimy – GA4
+2025-08-07;3344;2;793.3;0.05980861244019139;Dimy;Dimy – GA4
+2025-08-08;3286;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-09;3481;2;362.359999;0.057454754380925024;Dimy;Dimy – GA4
+2025-08-10;3463;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-11;3706;1;386.9;0.026983270372369132;Dimy;Dimy – GA4
+2025-08-12;3518;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-13;3697;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-14;3845;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-15;3721;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-16;3800;1;124.12;0.02631578947368421;Dimy;Dimy – GA4
+2025-08-17;3910;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-18;4104;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-19;3997;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-20;3893;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-21;3996;1;175.4;0.025025025025025023;Dimy;Dimy – GA4
+2025-08-22;3739;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-23;3606;1;330.950001;0.027731558513588467;Dimy;Dimy – GA4
+2025-08-24;4234;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-25;4194;0;0.0;0.0;Dimy;Dimy – GA4
+2025-08-26;3651;0;0.0;0.0;Dimy;Dimy – GA4
 2025-08-27;3729;0;0.0;0.0;Dimy;Dimy – GA4
 2025-08-28;3912;0;0.0;0.0;Dimy;Dimy – GA4
 2025-08-29;3583;0;0.0;0.0;Dimy;Dimy – GA4
@@ -502,8 +708,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;2934;26;15421.850011999999;0.8861622358554875;Dimy;Dimy – GA4
 2025-10-28;3038;38;15451.540001000001;1.2508229098090848;Dimy;Dimy – GA4
 2025-10-29;2896;47;20801.539983;1.62292817679558;Dimy;Dimy – GA4
-2025-10-30;2610;42;17889.779991;1.6091954022988506;Dimy;Dimy – GA4
-2025-10-31;139;2;868.750002;1.4388489208633095;Dimy;Dimy – GA4
+2025-10-30;2752;46;20080.469990999998;1.6715116279069766;Dimy;Dimy – GA4
+2025-10-31;3053;35;19120.100001;1.1464133639043563;Dimy;Dimy – GA4
+2025-11-01;2685;20;6842.290001;0.74487895716946;Dimy;Dimy – GA4
+2025-11-02;3156;28;17612.040008;0.8871989860583016;Dimy;Dimy – GA4
+2025-11-03;3206;19;7474.65;0.5926388022457891;Dimy;Dimy – GA4
+2025-11-04;1504;5;1640.570001;0.3324468085106383;Dimy;Dimy – GA4
+2025-07-27;83;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-07-28;104;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-07-29;80;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-07-30;77;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-07-31;56;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-01;33;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-02;26;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-03;21;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-04;31;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-05;38;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-06;41;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-07;56;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-08;51;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-09;25;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-10;27;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-11;91;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-12;153;1;94.580001;0.6535947712418301;Donna Maira;Donna Maira | UA - GA4
+2025-08-13;178;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-14;169;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-15;164;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-16;65;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-17;15;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-18;9;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-19;31;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-20;23;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-21;48;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-22;40;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-23;54;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-24;32;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-25;36;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-08-26;23;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
 2025-08-27;25;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
 2025-08-28;29;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
 2025-08-29;34;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
@@ -569,6 +810,33 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-28;55;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
 2025-10-29;73;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
 2025-10-30;65;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-10-31;70;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-11-01;35;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-11-02;38;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-11-03;56;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-11-04;16;0;0.0;0.0;Donna Maira;Donna Maira | UA - GA4
+2025-07-27;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-07-28;3;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-07-29;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-07-31;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-01;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-02;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-03;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-05;3;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-06;4;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-08;3;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-09;4;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-12;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-14;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-16;3;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-17;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-18;4;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-19;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-20;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-21;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-22;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-24;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-08-25;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
 2025-08-27;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
 2025-08-29;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
 2025-08-30;2;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
@@ -613,6 +881,40 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-25;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
 2025-10-28;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
 2025-10-29;5;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-10-31;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-11-02;1;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-11-03;3;0;0.0;0.0;Dra Priscila Amaral;Dra Priscila Amaral
+2025-07-27;23;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-07-28;44;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-07-29;104;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-07-30;45;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-07-31;27;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-01;39;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-02;16;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-03;22;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-04;38;1;252.219999;2.631578947368421;Drafmil;drafmil.com.br - GA4
+2025-08-05;30;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-06;19;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-07;13;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-08;19;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-09;7;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-10;6;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-11;16;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-12;17;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-13;10;1;285.499998;10.0;Drafmil;drafmil.com.br - GA4
+2025-08-14;8;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-15;31;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-16;8;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-17;13;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-18;11;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-19;18;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-20;14;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-21;3;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-22;5;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-23;9;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-24;4;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-25;14;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-08-26;15;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
 2025-08-27;7;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
 2025-08-28;9;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
 2025-08-29;12;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
@@ -677,7 +979,12 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;30;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
 2025-10-28;48;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
 2025-10-29;9;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
-2025-10-30;10;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-10-30;11;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-10-31;11;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-11-01;2;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-11-02;8;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-11-03;33;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
+2025-11-04;37;0;0.0;0.0;Drafmil;drafmil.com.br - GA4
 2025-09-30;15;0;0.0;0.0;GAIALE;E-commerce Gaiale
 2025-10-01;16;0;0.0;0.0;GAIALE;E-commerce Gaiale
 2025-10-02;37;1;144.469999;2.7027027027027026;GAIALE;E-commerce Gaiale
@@ -708,8 +1015,12 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;74;0;0.0;0.0;GAIALE;E-commerce Gaiale
 2025-10-28;58;0;0.0;0.0;GAIALE;E-commerce Gaiale
 2025-10-29;28;0;0.0;0.0;GAIALE;E-commerce Gaiale
-2025-10-30;81;0;0.0;0.0;GAIALE;E-commerce Gaiale
-2025-10-31;13;0;0.0;0.0;GAIALE;E-commerce Gaiale
+2025-10-30;87;0;0.0;0.0;GAIALE;E-commerce Gaiale
+2025-10-31;180;0;0.0;0.0;GAIALE;E-commerce Gaiale
+2025-11-01;137;0;0.0;0.0;GAIALE;E-commerce Gaiale
+2025-11-02;190;1;129.859999;0.5263157894736842;GAIALE;E-commerce Gaiale
+2025-11-03;202;0;0.0;0.0;GAIALE;E-commerce Gaiale
+2025-11-04;38;0;0.0;0.0;GAIALE;E-commerce Gaiale
 2025-09-19;11;0;0.0;0.0;INVICCI;LP Invicci
 2025-09-20;3;0;0.0;0.0;INVICCI;LP Invicci
 2025-09-22;1;0;0.0;0.0;INVICCI;LP Invicci
@@ -738,8 +1049,12 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;48;0;0.0;0.0;INVICCI;LP Invicci
 2025-10-28;27;0;0.0;0.0;INVICCI;LP Invicci
 2025-10-29;49;0;0.0;0.0;INVICCI;LP Invicci
-2025-10-30;25;0;0.0;0.0;INVICCI;LP Invicci
-2025-10-31;1;0;0.0;0.0;INVICCI;LP Invicci
+2025-10-30;40;0;0.0;0.0;INVICCI;LP Invicci
+2025-10-31;42;0;0.0;0.0;INVICCI;LP Invicci
+2025-11-01;62;0;0.0;0.0;INVICCI;LP Invicci
+2025-11-02;65;0;0.0;0.0;INVICCI;LP Invicci
+2025-11-03;35;0;0.0;0.0;INVICCI;LP Invicci
+2025-11-04;3;0;0.0;0.0;INVICCI;LP Invicci
 2025-10-20;27;0;0.0;0.0;LOOK DA MARI;Ecom Look da Mari
 2025-10-21;292;8;1271.910006;2.73972602739726;LOOK DA MARI;Ecom Look da Mari
 2025-10-22;223;3;459.970001;1.345291479820628;LOOK DA MARI;Ecom Look da Mari
@@ -750,8 +1065,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;215;3;528.770002;1.3953488372093024;LOOK DA MARI;Ecom Look da Mari
 2025-10-28;302;3;481.890004;0.9933774834437087;LOOK DA MARI;Ecom Look da Mari
 2025-10-29;251;6;1115.029997;2.3904382470119523;LOOK DA MARI;Ecom Look da Mari
-2025-10-30;181;1;282.699999;0.5524861878453038;LOOK DA MARI;Ecom Look da Mari
-2025-10-31;7;0;0.0;0.0;LOOK DA MARI;Ecom Look da Mari
+2025-10-30;190;1;282.699999;0.5263157894736842;LOOK DA MARI;Ecom Look da Mari
+2025-10-31;221;3;506.199997;1.3574660633484164;LOOK DA MARI;Ecom Look da Mari
+2025-11-01;229;5;698.269997;2.1834061135371177;LOOK DA MARI;Ecom Look da Mari
+2025-11-02;215;4;480.380001;1.8604651162790697;LOOK DA MARI;Ecom Look da Mari
+2025-11-03;247;3;410.919997;1.214574898785425;LOOK DA MARI;Ecom Look da Mari
+2025-11-04;224;3;444.580001;1.3392857142857142;LOOK DA MARI;Ecom Look da Mari
+2025-07-27;280;1;411.9;0.35714285714285715;Laundrysp.com;Laundrysp.com – GA4
+2025-07-28;211;1;321.9;0.47393364928909953;Laundrysp.com;Laundrysp.com – GA4
+2025-07-29;226;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-07-30;218;2;1888.799999;0.9174311926605505;Laundrysp.com;Laundrysp.com – GA4
+2025-07-31;215;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-01;197;1;445.999999;0.5076142131979695;Laundrysp.com;Laundrysp.com – GA4
+2025-08-02;234;4;1893.7;1.7094017094017095;Laundrysp.com;Laundrysp.com – GA4
+2025-08-03;267;1;244.999997;0.37453183520599254;Laundrysp.com;Laundrysp.com – GA4
+2025-08-04;236;2;598.800001;0.847457627118644;Laundrysp.com;Laundrysp.com – GA4
+2025-08-05;260;1;1536.900002;0.38461538461538464;Laundrysp.com;Laundrysp.com – GA4
+2025-08-06;250;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-07;264;1;621.900001;0.3787878787878788;Laundrysp.com;Laundrysp.com – GA4
+2025-08-08;261;1;621.899999;0.38314176245210724;Laundrysp.com;Laundrysp.com – GA4
+2025-08-09;271;2;1512.800003;0.7380073800738007;Laundrysp.com;Laundrysp.com – GA4
+2025-08-10;305;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-11;253;1;621.9;0.3952569169960474;Laundrysp.com;Laundrysp.com – GA4
+2025-08-12;276;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-13;204;1;391.9;0.49019607843137253;Laundrysp.com;Laundrysp.com – GA4
+2025-08-14;204;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-15;292;4;3677.700002;1.36986301369863;Laundrysp.com;Laundrysp.com – GA4
+2025-08-16;336;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-17;322;2;612.800002;0.6211180124223602;Laundrysp.com;Laundrysp.com – GA4
+2025-08-18;266;1;411.900001;0.37593984962406013;Laundrysp.com;Laundrysp.com – GA4
+2025-08-19;243;2;1429.899999;0.823045267489712;Laundrysp.com;Laundrysp.com – GA4
+2025-08-20;211;2;1247.8;0.9478672985781991;Laundrysp.com;Laundrysp.com – GA4
+2025-08-21;256;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-22;254;4;1683.599997;1.574803149606299;Laundrysp.com;Laundrysp.com – GA4
+2025-08-23;251;2;899.3;0.796812749003984;Laundrysp.com;Laundrysp.com – GA4
+2025-08-24;340;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-25;350;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-08-26;291;2;619.899995;0.6872852233676976;Laundrysp.com;Laundrysp.com – GA4
 2025-08-27;250;1;357.899999;0.4;Laundrysp.com;Laundrysp.com – GA4
 2025-08-28;310;1;421.900002;0.3225806451612903;Laundrysp.com;Laundrysp.com – GA4
 2025-08-29;480;2;1716.999998;0.4166666666666667;Laundrysp.com;Laundrysp.com – GA4
@@ -816,8 +1166,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;368;3;1813.800001;0.8152173913043478;Laundrysp.com;Laundrysp.com – GA4
 2025-10-28;251;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
 2025-10-29;274;3;2459.800003;1.094890510948905;Laundrysp.com;Laundrysp.com – GA4
-2025-10-30;208;2;1052.799999;0.9615384615384616;Laundrysp.com;Laundrysp.com – GA4
-2025-10-31;44;1;889.900001;2.272727272727273;Laundrysp.com;Laundrysp.com – GA4
+2025-10-30;207;2;1052.799999;0.966183574879227;Laundrysp.com;Laundrysp.com – GA4
+2025-10-31;315;1;889.900001;0.31746031746031744;Laundrysp.com;Laundrysp.com – GA4
+2025-11-01;281;1;347.899999;0.3558718861209964;Laundrysp.com;Laundrysp.com – GA4
+2025-11-02;307;2;1028.8;0.6514657980456027;Laundrysp.com;Laundrysp.com – GA4
+2025-11-03;279;1;347.899998;0.35842293906810035;Laundrysp.com;Laundrysp.com – GA4
+2025-11-04;110;0;0.0;0.0;Laundrysp.com;Laundrysp.com – GA4
+2025-07-27;77;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-07-28;157;2;957.13;1.2738853503184715;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-07-29;157;1;373.84;0.6369426751592357;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-07-30;194;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-07-31;165;1;179.899998;0.6060606060606061;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-01;249;3;831.769996;1.2048192771084338;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-02;161;1;560.21;0.6211180124223602;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-03;166;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-04;182;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-05;194;1;300.809998;0.5154639175257731;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-06;166;1;473.039997;0.6024096385542169;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-07;180;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-08;179;2;491.959998;1.1173184357541899;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-09;163;1;180.899998;0.6134969325153374;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-10;177;2;503.84;1.1299435028248588;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-11;188;2;694.269998;1.0638297872340425;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-12;219;3;730.289999;1.36986301369863;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-13;207;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-14;205;2;663.189998;0.975609756097561;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-15;276;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-16;176;1;375.750002;0.5681818181818182;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-17;141;1;373.839999;0.7092198581560284;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-18;202;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-19;212;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-20;244;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-21;240;4;1346.840001;1.6666666666666667;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-22;257;1;336.810001;0.38910505836575876;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-23;225;1;342.359997;0.4444444444444444;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-24;179;5;1671.32;2.793296089385475;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-25;238;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-08-26;304;1;151.219999;0.3289473684210526;Lizi e Lizi E-commerce 2024;Lizi e Lizi
 2025-08-27;364;2;630.729995;0.5494505494505495;Lizi e Lizi E-commerce 2024;Lizi e Lizi
 2025-08-28;275;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
 2025-08-29;217;1;273.280001;0.4608294930875576;Lizi e Lizi E-commerce 2024;Lizi e Lizi
@@ -882,8 +1267,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;334;3;1218.909998;0.8982035928143712;Lizi e Lizi E-commerce 2024;Lizi e Lizi
 2025-10-28;369;2;700.959996;0.5420054200542005;Lizi e Lizi E-commerce 2024;Lizi e Lizi
 2025-10-29;284;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
-2025-10-30;243;1;376.03;0.411522633744856;Lizi e Lizi E-commerce 2024;Lizi e Lizi
-2025-10-31;10;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-10-30;267;1;376.03;0.37453183520599254;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-10-31;230;2;535.119999;0.8695652173913043;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-11-01;205;1;281.400002;0.4878048780487805;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-11-02;293;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-11-03;268;2;587.560002;0.7462686567164178;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-11-04;88;0;0.0;0.0;Lizi e Lizi E-commerce 2024;Lizi e Lizi
+2025-07-27;378;4;832.15;1.0582010582010581;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-07-28;521;4;1127.210003;0.7677543186180422;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-07-29;444;3;917.960004;0.6756756756756757;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-07-30;397;2;470.38;0.5037783375314862;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-07-31;300;3;890.209999;1.0;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-01;310;2;686.930005;0.6451612903225806;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-02;302;3;1111.569996;0.9933774834437087;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-03;279;0;0.0;0.0;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-04;411;2;230.329998;0.48661800486618007;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-05;324;3;948.110003;0.9259259259259258;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-06;405;5;2041.890001;1.2345679012345678;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-07;341;6;1346.63;1.7595307917888565;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-08;258;2;302.3;0.7751937984496124;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-09;256;0;0.0;0.0;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-10;263;0;0.0;0.0;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-11;332;3;1223.669997;0.9036144578313252;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-12;443;2;1333.830002;0.4514672686230248;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-13;618;13;2736.500003;2.103559870550162;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-14;1000;50;9465.649991999999;5.0;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-15;723;30;4270.349992;4.149377593360995;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-16;672;14;2459.400012;2.083333333333333;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-17;702;16;3574.089999;2.2792022792022792;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-18;409;1;525.159998;0.24449877750611246;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-19;364;2;344.829999;0.5494505494505495;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-20;345;2;581.460002;0.5797101449275363;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-21;343;3;349.54;0.8746355685131195;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-22;343;4;1841.679998;1.1661807580174928;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-23;319;3;1879.5599980000002;0.9404388714733543;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-24;310;0;0.0;0.0;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-25;363;1;375.930001;0.27548209366391185;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-08-26;368;1;370.080001;0.2717391304347826;Luci-Mar Moda Praia;Luci_Mar Moda Praia
 2025-08-27;329;2;492.23;0.60790273556231;Luci-Mar Moda Praia;Luci_Mar Moda Praia
 2025-08-28;322;3;461.049993;0.9316770186335404;Luci-Mar Moda Praia;Luci_Mar Moda Praia
 2025-08-29;322;3;838.869998;0.9316770186335404;Luci-Mar Moda Praia;Luci_Mar Moda Praia
@@ -948,8 +1368,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;575;6;2425.170004;1.0434782608695654;Luci-Mar Moda Praia;Luci_Mar Moda Praia
 2025-10-28;630;9;6067.210003;1.4285714285714286;Luci-Mar Moda Praia;Luci_Mar Moda Praia
 2025-10-29;494;5;842.789999;1.0121457489878543;Luci-Mar Moda Praia;Luci_Mar Moda Praia
-2025-10-30;446;1;610.880001;0.2242152466367713;Luci-Mar Moda Praia;Luci_Mar Moda Praia
-2025-10-31;21;0;0.0;0.0;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-10-30;458;1;610.880001;0.21834061135371177;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-10-31;404;3;345.260003;0.7425742574257426;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-11-01;399;2;355.94;0.5012531328320802;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-11-02;569;3;1130.730001;0.5272407732864675;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-11-03;518;6;2742.089999;1.1583011583011582;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-11-04;276;4;983.279999;1.4492753623188406;Luci-Mar Moda Praia;Luci_Mar Moda Praia
+2025-07-27;461;6;1127.939997;1.3015184381778742;Madame Lost;Madame Lost - GA4
+2025-07-28;404;12;3375.569999;2.9702970297029703;Madame Lost;Madame Lost - GA4
+2025-07-29;330;8;774.200002;2.4242424242424243;Madame Lost;Madame Lost - GA4
+2025-07-30;308;7;1110.760002;2.272727272727273;Madame Lost;Madame Lost - GA4
+2025-07-31;307;7;837.559995;2.2801302931596092;Madame Lost;Madame Lost - GA4
+2025-08-01;294;2;242.820001;0.6802721088435374;Madame Lost;Madame Lost - GA4
+2025-08-02;188;1;61.399999;0.5319148936170213;Madame Lost;Madame Lost - GA4
+2025-08-03;138;2;484.570003;1.4492753623188406;Madame Lost;Madame Lost - GA4
+2025-08-04;70;1;74.220001;1.4285714285714286;Madame Lost;Madame Lost - GA4
+2025-08-05;55;1;103.190001;1.8181818181818181;Madame Lost;Madame Lost - GA4
+2025-08-06;68;0;0.0;0.0;Madame Lost;Madame Lost - GA4
+2025-08-07;90;0;0.0;0.0;Madame Lost;Madame Lost - GA4
+2025-08-08;108;1;112.099998;0.9259259259259258;Madame Lost;Madame Lost - GA4
+2025-08-09;75;0;0.0;0.0;Madame Lost;Madame Lost - GA4
+2025-08-10;65;2;516.169996;3.076923076923077;Madame Lost;Madame Lost - GA4
+2025-08-11;70;1;335.77;1.4285714285714286;Madame Lost;Madame Lost - GA4
+2025-08-12;75;1;274.219998;1.3333333333333335;Madame Lost;Madame Lost - GA4
+2025-08-13;59;0;0.0;0.0;Madame Lost;Madame Lost - GA4
+2025-08-14;97;3;749.899995;3.0927835051546393;Madame Lost;Madame Lost - GA4
+2025-08-15;103;5;1663.260006;4.854368932038835;Madame Lost;Madame Lost - GA4
+2025-08-16;83;1;269.599998;1.2048192771084338;Madame Lost;Madame Lost - GA4
+2025-08-17;235;4;623.43;1.702127659574468;Madame Lost;Madame Lost - GA4
+2025-08-18;244;7;2423.840005;2.8688524590163933;Madame Lost;Madame Lost - GA4
+2025-08-19;187;3;823.270002;1.6042780748663104;Madame Lost;Madame Lost - GA4
+2025-08-20;146;3;495.380001;2.054794520547945;Madame Lost;Madame Lost - GA4
+2025-08-21;114;2;361.879999;1.7543859649122806;Madame Lost;Madame Lost - GA4
+2025-08-22;98;2;559.070002;2.0408163265306123;Madame Lost;Madame Lost - GA4
+2025-08-23;78;5;1156.610002;6.41025641025641;Madame Lost;Madame Lost - GA4
+2025-08-24;119;1;123.58;0.8403361344537815;Madame Lost;Madame Lost - GA4
+2025-08-25;279;5;1083.980002;1.7921146953405016;Madame Lost;Madame Lost - GA4
+2025-08-26;182;2;291.540002;1.098901098901099;Madame Lost;Madame Lost - GA4
 2025-08-27;122;1;61.92;0.819672131147541;Madame Lost;Madame Lost - GA4
 2025-08-28;148;5;496.149995;3.3783783783783785;Madame Lost;Madame Lost - GA4
 2025-08-29;126;2;672.580001;1.5873015873015872;Madame Lost;Madame Lost - GA4
@@ -1014,9 +1469,45 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;99;1;72.389999;1.0101010101010102;Madame Lost;Madame Lost - GA4
 2025-10-28;117;2;470.850002;1.7094017094017095;Madame Lost;Madame Lost - GA4
 2025-10-29;76;0;0.0;0.0;Madame Lost;Madame Lost - GA4
-2025-10-30;68;0;0.0;0.0;Madame Lost;Madame Lost - GA4
-2025-10-31;3;0;0.0;0.0;Madame Lost;Madame Lost - GA4
+2025-10-30;69;0;0.0;0.0;Madame Lost;Madame Lost - GA4
+2025-10-31;53;0;0.0;0.0;Madame Lost;Madame Lost - GA4
+2025-11-01;56;1;124.029998;1.7857142857142856;Madame Lost;Madame Lost - GA4
+2025-11-02;75;3;622.599998;4.0;Madame Lost;Madame Lost - GA4
+2025-11-03;40;1;478.750003;2.5;Madame Lost;Madame Lost - GA4
+2025-11-04;23;1;122.599998;4.3478260869565215;Madame Lost;Madame Lost - GA4
+2025-08-09;5;0;0.0;0.0;Mapi Pijamas ;www.usomapi.com
 2025-09-27;5;0;0.0;0.0;Mapi Pijamas ;www.usomapi.com
+2025-07-27;219;3;1027.13;1.36986301369863;Mena Bijuterias;Stephanie Amaral de Gois
+2025-07-28;449;2;315.88;0.4454342984409799;Mena Bijuterias;Stephanie Amaral de Gois
+2025-07-29;541;5;2240.460003;0.9242144177449169;Mena Bijuterias;Stephanie Amaral de Gois
+2025-07-30;586;4;1951.959999;0.6825938566552902;Mena Bijuterias;Stephanie Amaral de Gois
+2025-07-31;747;4;1604.39;0.535475234270415;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-01;824;5;1177.63;0.6067961165048543;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-02;704;4;1071.689997;0.5681818181818182;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-03;730;4;1005.169998;0.547945205479452;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-04;600;2;861.059999;0.33333333333333337;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-05;593;5;1375.849994;0.8431703204047217;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-06;553;4;1151.770001;0.7233273056057866;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-07;510;9;3226.979999;1.7647058823529411;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-08;420;7;2049.250002;1.6666666666666667;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-09;311;6;2453.920001;1.929260450160772;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-10;318;1;113.839999;0.3144654088050315;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-11;371;5;879.049996;1.3477088948787064;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-12;432;8;4214.999996;1.8518518518518516;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-13;363;5;1223.169998;1.3774104683195594;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-14;439;3;549.320002;0.683371298405467;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-15;424;5;2551.810002;1.179245283018868;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-16;400;6;5601.799999;1.5;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-17;405;2;1328.980002;0.49382716049382713;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-18;419;3;984.469999;0.7159904534606205;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-19;383;3;1417.230006;0.7832898172323759;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-20;373;5;995.529997;1.3404825737265416;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-21;345;8;2485.280004;2.318840579710145;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-22;338;4;1280.279997;1.183431952662722;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-23;329;2;539.95;0.60790273556231;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-24;392;0;0.0;0.0;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-25;448;2;501.870003;0.4464285714285714;Mena Bijuterias;Stephanie Amaral de Gois
+2025-08-26;336;1;216.830001;0.2976190476190476;Mena Bijuterias;Stephanie Amaral de Gois
 2025-08-27;396;3;388.47;0.7575757575757576;Mena Bijuterias;Stephanie Amaral de Gois
 2025-08-28;389;6;839.979998;1.5424164524421593;Mena Bijuterias;Stephanie Amaral de Gois
 2025-08-29;291;2;2063.09;0.6872852233676976;Mena Bijuterias;Stephanie Amaral de Gois
@@ -1081,8 +1572,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;250;2;287.390001;0.8;Mena Bijuterias;Stephanie Amaral de Gois
 2025-10-28;266;3;1709.69;1.1278195488721803;Mena Bijuterias;Stephanie Amaral de Gois
 2025-10-29;236;4;1250.659999;1.694915254237288;Mena Bijuterias;Stephanie Amaral de Gois
-2025-10-30;198;4;1660.370003;2.0202020202020203;Mena Bijuterias;Stephanie Amaral de Gois
-2025-10-31;12;0;0.0;0.0;Mena Bijuterias;Stephanie Amaral de Gois
+2025-10-30;199;4;1660.370003;2.0100502512562812;Mena Bijuterias;Stephanie Amaral de Gois
+2025-10-31;201;3;1092.129999;1.4925373134328357;Mena Bijuterias;Stephanie Amaral de Gois
+2025-11-01;204;8;3277.469991;3.9215686274509802;Mena Bijuterias;Stephanie Amaral de Gois
+2025-11-02;181;5;3718.619995;2.7624309392265194;Mena Bijuterias;Stephanie Amaral de Gois
+2025-11-03;288;11;3447.269989;3.8194444444444446;Mena Bijuterias;Stephanie Amaral de Gois
+2025-11-04;50;1;391.220003;2.0;Mena Bijuterias;Stephanie Amaral de Gois
+2025-07-27;221;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-07-28;176;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-07-29;169;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-07-30;218;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-07-31;182;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-01;177;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-02;200;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-03;219;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-04;227;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-05;218;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-06;141;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-07;145;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-08;200;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-09;182;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-10;218;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-11;183;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-12;192;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-13;209;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-14;159;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-15;131;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-16;234;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-17;234;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-18;192;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-19;251;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-20;184;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-21;163;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-22;171;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-23;170;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-24;202;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-25;151;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-08-26;170;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
 2025-08-27;156;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
 2025-08-28;153;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
 2025-08-29;136;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
@@ -1147,8 +1673,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;383;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
 2025-10-28;511;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
 2025-10-29;396;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
-2025-10-30;422;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
-2025-10-31;12;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-10-30;421;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-10-31;393;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-11-01;369;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-11-02;472;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-11-03;513;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-11-04;118;0;0.0;0.0;Nome de Prata;Nome de Prata - RD Station – GA4
+2025-07-27;301;0;0.0;0.0;Nome de Prata;Nome de Prata – GA4
+2025-07-28;236;2;618.139995;0.847457627118644;Nome de Prata;Nome de Prata – GA4
+2025-07-29;227;4;1031.460005;1.762114537444934;Nome de Prata;Nome de Prata – GA4
+2025-07-30;297;3;533.58;1.0101010101010102;Nome de Prata;Nome de Prata – GA4
+2025-07-31;255;1;460.05;0.39215686274509803;Nome de Prata;Nome de Prata – GA4
+2025-08-01;225;0;0.0;0.0;Nome de Prata;Nome de Prata – GA4
+2025-08-02;278;2;816.519997;0.7194244604316548;Nome de Prata;Nome de Prata – GA4
+2025-08-03;302;2;674.74;0.6622516556291391;Nome de Prata;Nome de Prata – GA4
+2025-08-04;333;3;957.2499990000001;0.9009009009009009;Nome de Prata;Nome de Prata – GA4
+2025-08-05;302;5;1506.019998;1.6556291390728477;Nome de Prata;Nome de Prata – GA4
+2025-08-06;204;4;1152.309998;1.9607843137254901;Nome de Prata;Nome de Prata – GA4
+2025-08-07;219;4;1727.600001;1.82648401826484;Nome de Prata;Nome de Prata – GA4
+2025-08-08;274;3;1255.329997;1.094890510948905;Nome de Prata;Nome de Prata – GA4
+2025-08-09;242;0;0.0;0.0;Nome de Prata;Nome de Prata – GA4
+2025-08-10;299;3;837.719996;1.0033444816053512;Nome de Prata;Nome de Prata – GA4
+2025-08-11;274;1;128.819998;0.36496350364963503;Nome de Prata;Nome de Prata – GA4
+2025-08-12;269;1;234.000001;0.37174721189591076;Nome de Prata;Nome de Prata – GA4
+2025-08-13;283;2;471.939998;0.7067137809187279;Nome de Prata;Nome de Prata – GA4
+2025-08-14;218;1;234.350002;0.45871559633027525;Nome de Prata;Nome de Prata – GA4
+2025-08-15;174;1;321.000001;0.5747126436781609;Nome de Prata;Nome de Prata – GA4
+2025-08-16;324;2;431.090003;0.6172839506172839;Nome de Prata;Nome de Prata – GA4
+2025-08-17;309;2;728.399999;0.6472491909385114;Nome de Prata;Nome de Prata – GA4
+2025-08-18;273;3;846.040002;1.098901098901099;Nome de Prata;Nome de Prata – GA4
+2025-08-19;350;1;162.870002;0.2857142857142857;Nome de Prata;Nome de Prata – GA4
+2025-08-20;253;1;126.670001;0.3952569169960474;Nome de Prata;Nome de Prata – GA4
+2025-08-21;234;0;0.0;0.0;Nome de Prata;Nome de Prata – GA4
+2025-08-22;241;2;621.740003;0.8298755186721992;Nome de Prata;Nome de Prata – GA4
+2025-08-23;227;2;705.52;0.881057268722467;Nome de Prata;Nome de Prata – GA4
+2025-08-24;279;1;227.970002;0.35842293906810035;Nome de Prata;Nome de Prata – GA4
+2025-08-25;223;0;0.0;0.0;Nome de Prata;Nome de Prata – GA4
+2025-08-26;220;1;233.069998;0.45454545454545453;Nome de Prata;Nome de Prata – GA4
 2025-08-27;232;2;674.100001;0.8620689655172413;Nome de Prata;Nome de Prata – GA4
 2025-08-28;202;0;0.0;0.0;Nome de Prata;Nome de Prata – GA4
 2025-08-29;190;1;257.149998;0.5263157894736842;Nome de Prata;Nome de Prata – GA4
@@ -1213,8 +1774,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;523;3;772.010001;0.5736137667304015;Nome de Prata;Nome de Prata – GA4
 2025-10-28;687;3;603.7;0.43668122270742354;Nome de Prata;Nome de Prata – GA4
 2025-10-29;524;3;659.5;0.5725190839694656;Nome de Prata;Nome de Prata – GA4
-2025-10-30;546;5;766.580001;0.9157509157509158;Nome de Prata;Nome de Prata – GA4
-2025-10-31;20;0;0.0;0.0;Nome de Prata;Nome de Prata – GA4
+2025-10-30;596;6;909.030002;1.006711409395973;Nome de Prata;Nome de Prata – GA4
+2025-10-31;537;3;894.260001;0.5586592178770949;Nome de Prata;Nome de Prata – GA4
+2025-11-01;499;4;926.5899939999999;0.8016032064128256;Nome de Prata;Nome de Prata – GA4
+2025-11-02;631;10;1947.2199950000002;1.5847860538827259;Nome de Prata;Nome de Prata – GA4
+2025-11-03;676;9;1652.869997;1.3313609467455623;Nome de Prata;Nome de Prata – GA4
+2025-11-04;301;6;1184.599993;1.9933554817275747;Nome de Prata;Nome de Prata – GA4
+2025-07-27;6;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-07-28;9;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-07-29;5;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-07-30;10;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-07-31;2;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-01;4;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-02;6;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-03;4;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-04;19;1;104.369999;5.263157894736842;Onda Verão;Onda Verão 
+2025-08-05;7;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-06;6;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-07;6;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-08;7;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-09;4;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-10;2;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-11;3;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-12;9;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-13;9;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-14;3;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-15;10;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-16;2;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-17;5;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-18;4;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-19;28;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-20;19;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-21;4;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-22;12;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-23;8;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-24;7;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-25;8;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-08-26;12;0;0.0;0.0;Onda Verão;Onda Verão 
 2025-08-27;7;0;0.0;0.0;Onda Verão;Onda Verão 
 2025-08-28;12;0;0.0;0.0;Onda Verão;Onda Verão 
 2025-08-29;10;0;0.0;0.0;Onda Verão;Onda Verão 
@@ -1266,6 +1862,37 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-14;9;0;0.0;0.0;Onda Verão;Onda Verão 
 2025-10-15;18;0;0.0;0.0;Onda Verão;Onda Verão 
 2025-10-16;6;0;0.0;0.0;Onda Verão;Onda Verão 
+2025-07-27;224;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-07-28;249;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-07-29;220;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-07-30;194;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-07-31;255;1;124.59;0.39215686274509803;Onça Preta;oncapreta.com.br – GA4
+2025-08-01;214;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-02;201;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-03;195;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-04;205;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-05;182;2;1328.509998;1.098901098901099;Onça Preta;oncapreta.com.br – GA4
+2025-08-06;150;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-07;138;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-08;130;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-09;178;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-10;147;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-11;135;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-12;165;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-13;187;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-14;192;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-15;144;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-16;135;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-17;119;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-18;157;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-19;161;1;147.739998;0.6211180124223602;Onça Preta;oncapreta.com.br – GA4
+2025-08-20;146;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-21;192;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-22;207;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-23;169;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-24;139;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-08-25;217;2;1115.000002;0.9216589861751152;Onça Preta;oncapreta.com.br – GA4
+2025-08-26;173;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
 2025-08-27;176;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
 2025-08-28;129;1;382.759998;0.7751937984496124;Onça Preta;oncapreta.com.br – GA4
 2025-08-29;130;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
@@ -1330,8 +1957,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;173;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
 2025-10-28;157;1;136.609998;0.6369426751592357;Onça Preta;oncapreta.com.br – GA4
 2025-10-29;172;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
-2025-10-30;194;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
-2025-10-31;7;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-10-30;206;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-10-31;201;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-11-01;158;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-11-02;123;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-11-03;163;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-11-04;86;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4
+2025-07-27;221;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-07-28;245;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-07-29;216;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-07-30;193;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-07-31;251;1;124.59;0.398406374501992;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-01;213;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-02;200;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-03;194;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-04;205;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-05;177;2;1328.509998;1.1299435028248588;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-06;149;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-07;137;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-08;129;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-09;178;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-10;142;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-11;132;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-12;163;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-13;184;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-14;188;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-15;142;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-16;133;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-17;118;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-18;156;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-19;158;1;147.739998;0.6329113924050633;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-20;146;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-21;188;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-22;203;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-23;168;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-24;137;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-25;214;2;1115.000002;0.9345794392523363;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-08-26;173;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
 2025-08-27;172;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
 2025-08-28;123;1;382.759998;0.8130081300813009;Onça Preta;oncapreta.com.br – GA4 - Secudário
 2025-08-29;129;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
@@ -1396,8 +2058,40 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;171;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
 2025-10-28;152;1;136.609998;0.6578947368421052;Onça Preta;oncapreta.com.br – GA4 - Secudário
 2025-10-29;169;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
-2025-10-30;167;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
-2025-10-31;4;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-10-30;197;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-10-31;200;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-11-01;155;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-11-02;119;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-11-03;163;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-11-04;76;0;0.0;0.0;Onça Preta;oncapreta.com.br – GA4 - Secudário
+2025-07-27;3;0;0.0;0.0;Ornabela;Ornabela
+2025-07-28;5;0;0.0;0.0;Ornabela;Ornabela
+2025-07-29;7;0;0.0;0.0;Ornabela;Ornabela
+2025-07-30;2;0;0.0;0.0;Ornabela;Ornabela
+2025-07-31;8;0;0.0;0.0;Ornabela;Ornabela
+2025-08-01;7;0;0.0;0.0;Ornabela;Ornabela
+2025-08-02;7;0;0.0;0.0;Ornabela;Ornabela
+2025-08-03;2;0;0.0;0.0;Ornabela;Ornabela
+2025-08-04;1;0;0.0;0.0;Ornabela;Ornabela
+2025-08-05;4;0;0.0;0.0;Ornabela;Ornabela
+2025-08-06;3;0;0.0;0.0;Ornabela;Ornabela
+2025-08-07;2;0;0.0;0.0;Ornabela;Ornabela
+2025-08-08;4;0;0.0;0.0;Ornabela;Ornabela
+2025-08-09;1;0;0.0;0.0;Ornabela;Ornabela
+2025-08-10;2;0;0.0;0.0;Ornabela;Ornabela
+2025-08-11;4;0;0.0;0.0;Ornabela;Ornabela
+2025-08-12;5;0;0.0;0.0;Ornabela;Ornabela
+2025-08-13;3;0;0.0;0.0;Ornabela;Ornabela
+2025-08-14;7;0;0.0;0.0;Ornabela;Ornabela
+2025-08-15;2;0;0.0;0.0;Ornabela;Ornabela
+2025-08-16;6;0;0.0;0.0;Ornabela;Ornabela
+2025-08-17;2;0;0.0;0.0;Ornabela;Ornabela
+2025-08-18;4;0;0.0;0.0;Ornabela;Ornabela
+2025-08-20;1;0;0.0;0.0;Ornabela;Ornabela
+2025-08-21;5;0;0.0;0.0;Ornabela;Ornabela
+2025-08-23;1;0;0.0;0.0;Ornabela;Ornabela
+2025-08-25;2;0;0.0;0.0;Ornabela;Ornabela
+2025-08-26;4;0;0.0;0.0;Ornabela;Ornabela
 2025-08-27;1;0;0.0;0.0;Ornabela;Ornabela
 2025-08-30;2;0;0.0;0.0;Ornabela;Ornabela
 2025-08-31;2;0;0.0;0.0;Ornabela;Ornabela
@@ -1458,8 +2152,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;83;0;0.0;0.0;Ornabela;Ornabela
 2025-10-28;62;0;0.0;0.0;Ornabela;Ornabela
 2025-10-29;50;0;0.0;0.0;Ornabela;Ornabela
-2025-10-30;56;0;0.0;0.0;Ornabela;Ornabela
-2025-10-31;6;0;0.0;0.0;Ornabela;Ornabela
+2025-10-30;64;0;0.0;0.0;Ornabela;Ornabela
+2025-10-31;105;0;0.0;0.0;Ornabela;Ornabela
+2025-11-01;64;0;0.0;0.0;Ornabela;Ornabela
+2025-11-02;73;0;0.0;0.0;Ornabela;Ornabela
+2025-11-03;62;0;0.0;0.0;Ornabela;Ornabela
+2025-11-04;44;0;0.0;0.0;Ornabela;Ornabela
+2025-07-27;19;1;224.409998;5.263157894736842;ROSE LIVING;ROSE LIVING
+2025-07-28;21;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-07-29;14;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-07-30;27;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-07-31;31;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-01;50;1;475.840002;2.0;ROSE LIVING;ROSE LIVING
+2025-08-02;48;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-03;41;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-04;87;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-05;49;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-06;37;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-07;19;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-08;31;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-09;15;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-10;22;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-11;43;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-12;95;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-13;73;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-14;97;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-15;149;1;95.040002;0.6711409395973155;ROSE LIVING;ROSE LIVING
+2025-08-16;46;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-17;22;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-18;86;1;130.440002;1.1627906976744187;ROSE LIVING;ROSE LIVING
+2025-08-19;143;2;255.880004;1.3986013986013985;ROSE LIVING;ROSE LIVING
+2025-08-20;90;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-21;13;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-22;113;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-23;84;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-24;64;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-25;78;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-08-26;66;0;0.0;0.0;ROSE LIVING;ROSE LIVING
 2025-08-27;39;0;0.0;0.0;ROSE LIVING;ROSE LIVING
 2025-08-28;32;0;0.0;0.0;ROSE LIVING;ROSE LIVING
 2025-08-29;13;0;0.0;0.0;ROSE LIVING;ROSE LIVING
@@ -1525,6 +2254,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-28;27;0;0.0;0.0;ROSE LIVING;ROSE LIVING
 2025-10-29;25;0;0.0;0.0;ROSE LIVING;ROSE LIVING
 2025-10-30;11;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-10-31;15;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-11-01;8;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-11-02;5;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-11-03;27;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-11-04;29;0;0.0;0.0;ROSE LIVING;ROSE LIVING
+2025-07-27;209;1;151.919998;0.4784688995215311;Rizzatti;Rizzatti
+2025-07-28;236;2;318.160001;0.847457627118644;Rizzatti;Rizzatti
+2025-07-29;250;1;175.860002;0.4;Rizzatti;Rizzatti
+2025-07-30;190;2;680.009998;1.0526315789473684;Rizzatti;Rizzatti
+2025-07-31;230;1;164.560002;0.43478260869565216;Rizzatti;Rizzatti
+2025-08-01;195;2;306.969998;1.0256410256410255;Rizzatti;Rizzatti
+2025-08-02;214;0;0.0;0.0;Rizzatti;Rizzatti
+2025-08-03;203;1;134.889998;0.49261083743842365;Rizzatti;Rizzatti
+2025-08-04;208;2;336.789997;0.9615384615384616;Rizzatti;Rizzatti
+2025-08-05;209;0;0.0;0.0;Rizzatti;Rizzatti
+2025-08-06;228;7;1545.320008;3.070175438596491;Rizzatti;Rizzatti
+2025-08-07;220;2;260.42;0.9090909090909091;Rizzatti;Rizzatti
+2025-08-08;198;3;636.679994;1.5151515151515151;Rizzatti;Rizzatti
+2025-08-09;160;2;455.23;1.25;Rizzatti;Rizzatti
+2025-08-10;222;0;0.0;0.0;Rizzatti;Rizzatti
+2025-08-11;215;3;405.699998;1.3953488372093024;Rizzatti;Rizzatti
+2025-08-12;218;7;1777.199996;3.211009174311927;Rizzatti;Rizzatti
+2025-08-13;222;5;1284.369997;2.2522522522522523;Rizzatti;Rizzatti
+2025-08-14;179;4;1336.240001;2.2346368715083798;Rizzatti;Rizzatti
+2025-08-15;171;1;140.489998;0.5847953216374269;Rizzatti;Rizzatti
+2025-08-16;122;2;404.029997;1.639344262295082;Rizzatti;Rizzatti
+2025-08-17;197;0;0.0;0.0;Rizzatti;Rizzatti
+2025-08-18;196;1;170.860002;0.5102040816326531;Rizzatti;Rizzatti
+2025-08-19;179;3;311.28;1.675977653631285;Rizzatti;Rizzatti
+2025-08-20;204;2;806.059998;0.9803921568627451;Rizzatti;Rizzatti
+2025-08-21;178;2;486.370001;1.1235955056179776;Rizzatti;Rizzatti
+2025-08-22;203;0;0.0;0.0;Rizzatti;Rizzatti
+2025-08-23;171;1;134.879998;0.5847953216374269;Rizzatti;Rizzatti
+2025-08-24;152;1;56.129999;0.6578947368421052;Rizzatti;Rizzatti
+2025-08-25;136;7;1232.300002;5.147058823529411;Rizzatti;Rizzatti
+2025-08-26;201;4;745.159999;1.9900497512437811;Rizzatti;Rizzatti
 2025-08-27;183;2;253.019999;1.092896174863388;Rizzatti;Rizzatti
 2025-08-28;187;2;322.509999;1.06951871657754;Rizzatti;Rizzatti
 2025-08-29;160;1;668.800001;0.625;Rizzatti;Rizzatti
@@ -1589,8 +2354,12 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;337;2;323.209998;0.5934718100890208;Rizzatti;Rizzatti
 2025-10-28;313;0;0.0;0.0;Rizzatti;Rizzatti
 2025-10-29;269;1;284.999999;0.37174721189591076;Rizzatti;Rizzatti
-2025-10-30;159;1;233.57;0.628930817610063;Rizzatti;Rizzatti
-2025-10-31;2;0;0.0;0.0;Rizzatti;Rizzatti
+2025-10-30;167;1;233.57;0.5988023952095809;Rizzatti;Rizzatti
+2025-10-31;216;1;282.149997;0.4629629629629629;Rizzatti;Rizzatti
+2025-11-01;188;2;304.51;1.0638297872340425;Rizzatti;Rizzatti
+2025-11-02;170;4;841.999996;2.3529411764705883;Rizzatti;Rizzatti
+2025-11-03;164;3;919.239999;1.8292682926829267;Rizzatti;Rizzatti
+2025-11-04;76;1;149.299997;1.3157894736842104;Rizzatti;Rizzatti
 2025-10-08;77;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
 2025-10-09;89;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
 2025-10-10;114;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
@@ -1613,8 +2382,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;137;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
 2025-10-28;116;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
 2025-10-29;71;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
-2025-10-30;68;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
-2025-10-31;7;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
+2025-10-30;72;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
+2025-10-31;66;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
+2025-11-01;64;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
+2025-11-02;80;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
+2025-11-03;83;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
+2025-11-04;48;0;0.0;0.0;Rs Joias By Keli Sordi;RS Joias Shopify
+2025-07-27;104;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-07-28;85;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-07-29;100;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-07-30;81;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-07-31;77;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-01;87;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-02;44;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-03;111;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-04;77;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-05;59;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-06;117;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-07;76;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-08;83;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-09;77;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-10;113;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-11;110;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-12;92;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-13;71;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-14;79;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-15;59;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-16;110;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-17;108;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-18;90;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-19;95;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-20;73;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-21;102;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-22;74;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-23;83;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-24;92;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-25;101;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-08-26;80;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
 2025-08-27;117;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
 2025-08-28;85;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
 2025-08-29;98;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
@@ -1679,7 +2483,39 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;16;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
 2025-10-28;27;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
 2025-10-29;33;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
-2025-10-30;14;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-10-30;17;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-11-03;1;0;0.0;0.0;Rs Joias By Keli Sordi;Rs Joias By Keli Sordi
+2025-07-27;95;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-07-28;142;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-07-29;164;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-07-30;129;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-07-31;157;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-01;126;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-02;76;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-03;50;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-04;138;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-05;135;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-06;163;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-07;165;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-08;148;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-09;103;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-10;84;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-11;145;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-12;159;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-13;149;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-14;215;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-15;139;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-16;98;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-17;82;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-18;177;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-19;257;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-20;195;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-21;156;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-22;132;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-23;101;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-24;95;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-25;149;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-08-26;176;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
 2025-08-27;180;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
 2025-08-28;164;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
 2025-08-29;193;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
@@ -1744,8 +2580,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;235;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
 2025-10-28;186;6;1540.01;3.225806451612903;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
 2025-10-29;163;2;399.300003;1.2269938650306749;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
-2025-10-30;139;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
-2025-10-31;4;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-10-30;144;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-10-31;136;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-11-01;113;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-11-02;91;0;0.0;0.0;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-11-03;135;1;76.650001;0.7407407407407408;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-11-04;88;7;1129.720008;7.954545454545454;Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4
+2025-07-27;3;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-07-28;14;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-07-29;20;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-07-30;14;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-07-31;12;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-01;8;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-02;14;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-03;12;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-04;9;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-05;11;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-06;9;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-07;12;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-08;9;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-09;4;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-11;17;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-12;19;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-13;10;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-14;16;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-15;17;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-16;9;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-17;8;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-18;16;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-19;14;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-20;12;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-21;13;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-22;5;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-23;6;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-24;6;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-25;16;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-08-26;13;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
 2025-08-27;5;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
 2025-08-28;13;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
 2025-08-29;11;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
@@ -1810,8 +2680,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;19;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
 2025-10-28;33;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
 2025-10-29;17;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
-2025-10-30;14;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
-2025-10-31;1;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-10-30;22;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-10-31;18;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-11-01;11;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-11-02;16;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-11-03;27;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-11-04;11;0;0.0;0.0;Verde & Estilo;Site Verde & Estilo
+2025-07-27;11;0;0.0;0.0;Vest Prado;Vest Prado
+2025-07-28;19;0;0.0;0.0;Vest Prado;Vest Prado
+2025-07-29;18;0;0.0;0.0;Vest Prado;Vest Prado
+2025-07-30;9;0;0.0;0.0;Vest Prado;Vest Prado
+2025-07-31;13;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-01;18;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-02;14;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-03;13;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-04;16;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-05;4;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-06;15;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-07;18;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-08;17;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-09;11;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-10;11;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-11;18;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-12;26;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-13;17;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-14;12;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-15;11;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-16;14;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-17;14;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-18;21;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-19;21;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-20;18;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-21;19;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-22;24;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-23;14;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-24;13;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-25;20;0;0.0;0.0;Vest Prado;Vest Prado
+2025-08-26;8;0;0.0;0.0;Vest Prado;Vest Prado
 2025-08-27;21;0;0.0;0.0;Vest Prado;Vest Prado
 2025-08-28;21;0;0.0;0.0;Vest Prado;Vest Prado
 2025-08-29;9;0;0.0;0.0;Vest Prado;Vest Prado
@@ -1876,53 +2781,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;16;0;0.0;0.0;Vest Prado;Vest Prado
 2025-10-28;39;0;0.0;0.0;Vest Prado;Vest Prado
 2025-10-29;36;0;0.0;0.0;Vest Prado;Vest Prado
-2025-10-30;47;0;0.0;0.0;Vest Prado;Vest Prado
-2025-10-31;1;0;0.0;0.0;Vest Prado;Vest Prado
-2025-08-27;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-08-28;3;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-08-30;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-01;4;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-02;4;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-03;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-04;6;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-05;4;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-08;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-11;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-12;3;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-13;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-15;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-17;5;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-18;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-19;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-20;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-22;5;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-24;3;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-25;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-26;3;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-27;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-29;6;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-09-30;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-01;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-02;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-03;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-05;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-06;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-08;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-09;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-13;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-14;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-17;5;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-20;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-21;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-22;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-23;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-24;3;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-25;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-26;5;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-27;2;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-28;5;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-29;1;0;0.0;0.0;WN7;WN7 Performance Wix
-2025-10-30;1;0;0.0;0.0;WN7;WN7 Performance Wix
+2025-10-30;50;0;0.0;0.0;Vest Prado;Vest Prado
+2025-10-31;25;0;0.0;0.0;Vest Prado;Vest Prado
+2025-11-01;13;0;0.0;0.0;Vest Prado;Vest Prado
+2025-11-02;17;0;0.0;0.0;Vest Prado;Vest Prado
+2025-11-03;14;0;0.0;0.0;Vest Prado;Vest Prado
+2025-11-04;12;0;0.0;0.0;Vest Prado;Vest Prado
+2025-07-28;9;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-07-29;10;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-07-30;10;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-07-31;10;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-01;19;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-02;6;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-03;1;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-04;16;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-05;16;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-06;17;1;87.2;5.88235294117647;Wild World LTDA;Taylor Baptista
+2025-08-07;12;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-08;15;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-09;1;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-10;4;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-11;10;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-12;12;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-13;12;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-14;15;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-15;6;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-16;1;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-17;2;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-18;8;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-19;13;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-20;6;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-21;6;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-22;8;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-23;7;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-24;1;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-25;11;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-08-26;11;0;0.0;0.0;Wild World LTDA;Taylor Baptista
 2025-08-27;5;0;0.0;0.0;Wild World LTDA;Taylor Baptista
 2025-08-28;6;0;0.0;0.0;Wild World LTDA;Taylor Baptista
 2025-08-29;2;0;0.0;0.0;Wild World LTDA;Taylor Baptista
@@ -1987,6 +2881,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-28;14;0;0.0;0.0;Wild World LTDA;Taylor Baptista
 2025-10-29;10;0;0.0;0.0;Wild World LTDA;Taylor Baptista
 2025-10-30;5;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-10-31;4;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-11-01;2;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-11-02;3;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-11-03;10;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-11-04;38;0;0.0;0.0;Wild World LTDA;Taylor Baptista
+2025-07-27;165;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-07-28;155;1;791.000001;0.6451612903225806;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-07-29;158;1;422.0;0.6329113924050633;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-07-30;150;2;1349.900001;1.3333333333333335;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-07-31;128;1;911.699997;0.78125;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-01;202;1;490.500001;0.49504950495049505;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-02;117;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-03;119;1;534.600001;0.8403361344537815;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-04;134;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-05;148;2;603.000002;1.3513513513513513;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-06;120;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-07;126;2;2946.000003;1.5873015873015872;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-08;125;1;298.999999;0.8;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-09;132;1;700.999999;0.7575757575757576;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-10;154;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-11;169;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-12;128;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-13;139;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-14;140;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-15;120;1;674.000002;0.8333333333333334;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-16;114;1;330.559997;0.8771929824561403;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-17;151;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-18;135;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-19;149;3;2235.999998;2.013422818791946;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-20;144;2;719.000002;1.3888888888888888;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-21;166;2;1204.999999;1.2048192771084338;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-22;121;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-23;138;1;265.5;0.7246376811594203;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-24;159;1;939.599997;0.628930817610063;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-25;140;1;1113.460001;0.7142857142857143;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-08-26;130;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
 2025-08-27;134;2;1170.900002;1.4925373134328357;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
 2025-08-28;176;1;2117.0;0.5681818181818182;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
 2025-08-29;134;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
@@ -2051,8 +2981,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;305;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
 2025-10-28;149;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
 2025-10-29;162;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
-2025-10-30;164;1;193.22;0.6097560975609756;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
-2025-10-31;38;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-10-30;177;1;193.22;0.5649717514124294;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-10-31;149;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-11-01;278;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-11-02;173;0;0.0;0.0;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-11-03;198;2;531.999998;1.0101010101010102;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-11-04;162;1;241.000001;0.6172839506172839;antesdeparis.com.br/;http://antesdeparis.com.br - GA4
+2025-07-27;275;9;2893.340002;3.272727272727273;roupa para brincar;Roupa para Brincar – GA4
+2025-07-28;249;8;3326.339993;3.2128514056224895;roupa para brincar;Roupa para Brincar – GA4
+2025-07-29;204;8;2689.719992;3.9215686274509802;roupa para brincar;Roupa para Brincar – GA4
+2025-07-30;200;4;641.649995;2.0;roupa para brincar;Roupa para Brincar – GA4
+2025-07-31;320;4;722.489992;1.25;roupa para brincar;Roupa para Brincar – GA4
+2025-08-01;221;3;860.559999;1.3574660633484164;roupa para brincar;Roupa para Brincar – GA4
+2025-08-02;198;1;122.950002;0.5050505050505051;roupa para brincar;Roupa para Brincar – GA4
+2025-08-03;212;5;1681.020002;2.358490566037736;roupa para brincar;Roupa para Brincar – GA4
+2025-08-04;241;5;1755.430005;2.0746887966804977;roupa para brincar;Roupa para Brincar – GA4
+2025-08-05;369;8;1867.940001;2.168021680216802;roupa para brincar;Roupa para Brincar – GA4
+2025-08-06;240;4;911.629994;1.6666666666666667;roupa para brincar;Roupa para Brincar – GA4
+2025-08-07;290;5;1720.660001;1.7241379310344827;roupa para brincar;Roupa para Brincar – GA4
+2025-08-08;283;7;5122.79;2.4734982332155475;roupa para brincar;Roupa para Brincar – GA4
+2025-08-09;265;13;3645.980005;4.905660377358491;roupa para brincar;Roupa para Brincar – GA4
+2025-08-10;259;7;2120.930008;2.7027027027027026;roupa para brincar;Roupa para Brincar – GA4
+2025-08-11;272;9;2975.8999900000003;3.308823529411765;roupa para brincar;Roupa para Brincar – GA4
+2025-08-12;247;6;3046.920001;2.42914979757085;roupa para brincar;Roupa para Brincar – GA4
+2025-08-13;264;7;2264.290001;2.6515151515151514;roupa para brincar;Roupa para Brincar – GA4
+2025-08-14;252;7;1405.310001;2.7777777777777777;roupa para brincar;Roupa para Brincar – GA4
+2025-08-15;257;2;394.029999;0.7782101167315175;roupa para brincar;Roupa para Brincar – GA4
+2025-08-16;211;7;2526.259996;3.3175355450236967;roupa para brincar;Roupa para Brincar – GA4
+2025-08-17;227;9;2767.0899999999997;3.9647577092511015;roupa para brincar;Roupa para Brincar – GA4
+2025-08-18;333;8;3460.3599990000002;2.4024024024024024;roupa para brincar;Roupa para Brincar – GA4
+2025-08-19;267;7;2980.6299989999998;2.6217228464419478;roupa para brincar;Roupa para Brincar – GA4
+2025-08-20;227;10;3473.019999;4.405286343612335;roupa para brincar;Roupa para Brincar – GA4
+2025-08-21;325;6;1772.3800029999998;1.8461538461538463;roupa para brincar;Roupa para Brincar – GA4
+2025-08-22;251;3;972.320002;1.1952191235059761;roupa para brincar;Roupa para Brincar – GA4
+2025-08-23;292;5;1370.790002;1.7123287671232876;roupa para brincar;Roupa para Brincar – GA4
+2025-08-24;248;3;713.939995;1.2096774193548387;roupa para brincar;Roupa para Brincar – GA4
+2025-08-25;336;4;1337.930001;1.1904761904761905;roupa para brincar;Roupa para Brincar – GA4
+2025-08-26;306;2;563.609998;0.6535947712418301;roupa para brincar;Roupa para Brincar – GA4
 2025-08-27;241;5;1478.550002;2.0746887966804977;roupa para brincar;Roupa para Brincar – GA4
 2025-08-28;189;1;621.65;0.5291005291005291;roupa para brincar;Roupa para Brincar – GA4
 2025-08-29;150;3;474.330003;2.0;roupa para brincar;Roupa para Brincar – GA4
@@ -2117,8 +3082,43 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;297;3;1683.239998;1.0101010101010102;roupa para brincar;Roupa para Brincar – GA4
 2025-10-28;320;8;2770.649998;2.5;roupa para brincar;Roupa para Brincar – GA4
 2025-10-29;275;4;1384.610003;1.4545454545454546;roupa para brincar;Roupa para Brincar – GA4
-2025-10-30;182;5;1294.629994;2.7472527472527473;roupa para brincar;Roupa para Brincar – GA4
-2025-10-31;35;0;0.0;0.0;roupa para brincar;Roupa para Brincar – GA4
+2025-10-30;192;5;1294.629994;2.604166666666667;roupa para brincar;Roupa para Brincar – GA4
+2025-10-31;267;3;947.630003;1.1235955056179776;roupa para brincar;Roupa para Brincar – GA4
+2025-11-01;196;4;1139.68;2.0408163265306123;roupa para brincar;Roupa para Brincar – GA4
+2025-11-02;364;4;1120.520006;1.098901098901099;roupa para brincar;Roupa para Brincar – GA4
+2025-11-03;340;3;962.840001;0.8823529411764706;roupa para brincar;Roupa para Brincar – GA4
+2025-11-04;155;6;1499.470004;3.870967741935484;roupa para brincar;Roupa para Brincar – GA4
+2025-07-27;46;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-07-28;47;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-07-29;58;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-07-30;55;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-07-31;32;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-01;66;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-02;51;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-03;46;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-04;28;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-05;4;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-06;6;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-07;12;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-08;4;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-09;1;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-10;2;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-11;6;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-12;5;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-13;7;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-14;11;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-15;8;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-16;4;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-17;2;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-18;15;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-19;13;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-20;10;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-21;9;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-22;7;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-23;7;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-24;3;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-25;58;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-08-26;75;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
 2025-08-27;91;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
 2025-08-28;88;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
 2025-08-29;74;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
@@ -2184,7 +3184,42 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-28;79;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
 2025-10-29;47;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
 2025-10-30;20;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
-2025-10-31;3;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-10-31;38;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-11-01;29;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-11-02;55;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-11-03;19;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-11-04;12;0;0.0;0.0;site minas leds - mercado livre;Minas Leds Tray
+2025-07-27;173;1;404.900002;0.5780346820809248;www.cactus.com.br;www.cactus.com.br
+2025-07-28;199;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-07-29;161;1;177.749999;0.6211180124223602;www.cactus.com.br;www.cactus.com.br
+2025-07-30;180;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-07-31;128;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-01;160;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-02;135;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-03;141;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-04;115;2;665.17;1.7391304347826086;www.cactus.com.br;www.cactus.com.br
+2025-08-05;93;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-06;61;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-07;92;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-08;72;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-09;81;1;217.500002;1.2345679012345678;www.cactus.com.br;www.cactus.com.br
+2025-08-10;93;2;928.100002;2.1505376344086025;www.cactus.com.br;www.cactus.com.br
+2025-08-11;97;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-12;94;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-13;106;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-14;107;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-15;74;1;359.909998;1.3513513513513513;www.cactus.com.br;www.cactus.com.br
+2025-08-16;72;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-17;73;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-18;116;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-19;127;1;400.72;0.7874015748031495;www.cactus.com.br;www.cactus.com.br
+2025-08-20;112;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-21;169;3;475.739998;1.7751479289940828;www.cactus.com.br;www.cactus.com.br
+2025-08-22;163;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-23;164;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-24;176;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-25;140;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-08-26;116;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
 2025-08-27;197;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
 2025-08-28;178;1;139.899997;0.5617977528089888;www.cactus.com.br;www.cactus.com.br
 2025-08-29;169;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
@@ -2249,5 +3284,9 @@ date;sessions;transactions;purchaseRevenue;conversion_rate;account_display;prope
 2025-10-27;229;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
 2025-10-28;188;1;575.860001;0.5319148936170213;www.cactus.com.br;www.cactus.com.br
 2025-10-29;137;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
-2025-10-30;267;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
-2025-10-31;23;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-10-30;274;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-10-31;222;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-11-01;156;0;0.0;0.0;www.cactus.com.br;www.cactus.com.br
+2025-11-02;255;1;186.100001;0.39215686274509803;www.cactus.com.br;www.cactus.com.br
+2025-11-03;234;1;120.72;0.4273504273504274;www.cactus.com.br;www.cactus.com.br
+2025-11-04;82;1;834.590001;1.2195121951219512;www.cactus.com.br;www.cactus.com.br
