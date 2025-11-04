@@ -6,7 +6,8 @@ import json, os, ast, base64
 from datetime import date, datetime, timedelta
 from calendar import monthrange
 
-CSV_PATH = "C:/code/agency_dash/agengy/contas_config.csv"
+CSV_PATH = os.path.join(os.path.dirname(__file__), "contas_config.csv")
+
 
 # =====================
 # funções auxiliares
