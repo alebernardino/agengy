@@ -1,0 +1,396 @@
+/* ============================================================
+🎨 ESTILO GLOBAL
+============================================================ */
+body, .stApp {
+    background-color: #FFFFFF !important;
+    color: #1D1D1B !important;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+h1, h2, h3, h4 {
+    color: #005B82 !important;
+    font-weight: 600 !important;
+}
+
+div[data-baseweb="select"], 
+.stTextInput > div > div > input {
+    background-color: #FFFFFF !important;
+    color: #1D1D1B !important;
+    border: 1px solid #ADAFAF !important;
+    border-radius: 6px !important;
+}
+
+::placeholder {
+    color: #6e6e6e !important;
+}
+
+/* Remove espaçamento excessivo entre títulos e inputs */
+div[data-testid="stMarkdown"] p {
+    margin-bottom: 0.0rem !important;
+}
+
+/* ====== Ajuste fino: remove o espaço entre o card e os botões ====== */
+.card-buttons, .card-actions {
+    margin-top: -8px !important;   /* aproxima os botões do card */
+    padding-top: 0 !important;
+}
+
+/* Remove margens extras geradas pelos st.columns */
+.card-buttons div[data-testid="stButton"],
+.card-actions div[data-testid="stButton"] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Mantém espaçamento lateral e estética */
+.card-buttons, .card-actions {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+
+/* ============================================================
+📏 Reduz espaço entre markdown (título) e widgets abaixo
+============================================================ */
+div[data-testid="stVerticalBlock"] > div:has(> div[data-testid="stMarkdown"]) {
+    margin-bottom: 0rem !important;
+    padding-bottom: 0rem !important;
+}
+
+/* ============================================================
+🧩 Remove o espaço (label) acima de multiselect e selectbox
+============================================================ */
+div[data-baseweb="select"] label,
+div[data-testid="stMultiSelect"] label {
+    display: none !important;
+}
+
+div[data-testid="stSelectbox"] > label {
+    display: none !important;
+}
+
+/* Remove margens verticais residuais entre label oculto e o campo */
+div[data-testid="stSelectbox"],
+div[data-testid="stMultiSelect"] {
+    margin-top: 0rem !important;
+    padding-top: 0rem !important;
+}
+
+/* ============================================================
+📐 CORREÇÃO DO CONTEÚDO (abaixo do cabeçalho fixo)
+============================================================ */
+.block-container {
+    padding-top: 9rem !important; /* garante que o dashboard não fique escondido */
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+/* ============================================================
+🟦 BOTÕES
+============================================================ */
+div[data-testid="stButton"] > button {
+    border: none !important;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    color: #FFFFFF !important;
+    padding: 8px 20px !important;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    transition: all 0.2s ease-in-out;
+    cursor: pointer !important;
+    background-color: #005B82 !important;
+}
+
+/* Hover padrão */
+div[data-testid="stButton"] > button:hover {
+    background-color: #0076A3 !important;
+    transform: translateY(-2px);
+}
+
+/* Verde – botões "detalhes_" */
+button[id*="detalhes_"] {
+    background-color: #198754 !important;
+}
+button[id*="detalhes_"]:hover {
+    background-color: #28a745 !important;
+}
+
+/* Laranja – botões "editar_" */
+button[id*="editar_"] {
+    background-color: #F39200 !important;
+}
+button[id*="editar_"]:hover {
+    background-color: #ffb347 !important;
+}
+
+/* Desabilitados */
+div[data-testid="stButton"] > button:disabled {
+    background-color: #C5C6C7 !important;
+    color: #555 !important;
+    opacity: 0.8 !important;
+    box-shadow: none !important;
+}
+
+/* Margem entre botões */
+div[data-testid="stButton"] {
+    margin-top: 8px !important;
+}
+
+/* ============================================================
+🧩 CARDS
+============================================================ */
+/* CARD - estilo que reproduz o layout antigo */
+.card.custom {
+    padding: 10px;
+    border-radius: 10px;
+    background: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: -65px; /* mantém o "overlap" que você usava */
+}
+
+/* título grande com truncamento */
+.card.custom h4 {
+    color: #005B82;
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 300px;
+    display: inline-block;
+}
+
+/* corpo do card em grid */
+.card.custom .card-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    font-size: 22px;
+}
+
+/* destaque de receita */
+.card.custom .receita-valor {
+    color: #F39200;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+/* variação (verde/vermelho) — classes dinâmicas controladas pelo Python */
+.card.custom .var-positivo { color: green; font-size: 16px; }
+.card.custom .var-negativo { color: red; font-size: 16px; }
+
+/* área de meta/atingimento */
+.card.custom .meta-row {
+    margin-top: 10px;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* espaço extra inferior que existia antes */
+.card.custom .card-actions { margin-top: 16px; }
+
+/* ============================================================
+📊 CABEÇALHO FIXO
+============================================================ */
+.fixed-header {
+    position: fixed;
+    top: 3rem;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+    padding: 0.8rem 3rem;
+    border-bottom: 1px solid #E5E5E5;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Logo */
+.fixed-header img {
+    height: 50px;
+    margin-right: 20px;
+}
+
+/* Título e subtítulo */
+.fixed-header .titulo {
+    display: flex;
+    flex-direction: column;
+}
+
+.fixed-header .titulo h1 {
+    color: #005B82;
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.fixed-header .titulo p {
+    margin: 0;
+    color: #444;
+    font-size: 0.9rem;
+}
+
+.card.links-card {
+    background-color: #F7F9FB;
+    padding: 10px;
+    border-radius: 10px;
+}
+.card.links-card h4 {
+    margin-bottom: 6px;
+}
+
+/* ============================================================
+📋 EXPANDER (Gerenciar Contas)
+============================================================ */
+div.streamlit-expanderHeader {
+    background-color: #FFFFFF !important;
+    color: #005B82 !important;
+    font-weight: 600 !important;
+}
+
+div.streamlit-expanderHeader:hover {
+    background-color: #F5F7FA !important;
+}
+
+details[open] > summary {
+    background-color: #FFFFFF !important;
+    color: #005B82 !important;
+    border-bottom: 1px solid #E5E5E5 !important;
+}
+
+/* ============================================================
+📊 TABELA DE CONTAS
+============================================================ */
+.linha-conta {
+    display: grid;
+    grid-template-columns: 2fr 0.8fr 1fr 1fr;
+    align-items: center;
+    padding: 8px 12px;
+    border-bottom: 1px solid #eee;
+}
+.linha-conta:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.linha-conta.header {
+    font-weight: 700;
+    border-bottom: 2px solid #ccc;
+    padding: 4px 12px;
+}
+
+/* ============================================================
+📅 ESPAÇAMENTO DO DASHBOARD
+============================================================ */
+h1 { margin-bottom: 0.2rem !important; }
+div[data-baseweb="select"] { margin-top: 0rem !important; }
+hr {
+    margin-top: 0.3rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+/* ============================================================
+🎛️ AJUSTE FINAL – BOTÕES DENTRO DOS CARDS
+============================================================ */
+.card.custom {
+    position: relative;
+    padding: 14px;
+    border-radius: 12px;
+    background: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    margin-bottom: 0px;
+    overflow: hidden; /* evita que botões “fujam” do card */
+}
+
+/* Área dos botões */
+.card.custom .card-actions {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid #e0e0e0;
+    background-color: transparent;
+}
+
+/* Garante que os botões respeitem o interior do card */
+.card.custom .card-actions div[data-testid="stButton"] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Botões internos */
+.card.custom .card-actions div[data-testid="stButton"] > button {
+    width: 100%;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    padding: 6px 0 !important;
+    border-radius: 6px !important;
+    box-shadow: none !important;
+    transition: all 0.2s ease-in-out;
+    position: relative;
+    z-index: 2;
+}
+
+/* Hover com leve elevação */
+.card.custom .card-actions div[data-testid="stButton"] > button:hover {
+    transform: translateY(-1px);
+}
+
+/* Evita o “vazamento” do sombreado dos botões */
+.card.custom .card-actions div[data-testid="stButton"] > button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Ajuste fino nas colunas dos botões */
+.card.custom .stColumns {
+    margin-bottom: 0 !important;
+    gap: 10px !important;
+}
+
+.card.custom .card-actions {
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid #e0e0e0;
+    text-align: center;
+}
+
+.card.custom .fake-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 6px;
+}
+
+.fake-btn {
+    background-color: #005B82;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    font-size: 14px;
+}
+
+.fake-btn:hover {
+    background-color: #0076A3;
+    transform: translateY(-2px);
+}
+
+.fake-btn.btn-editar {
+    background-color: #F39200;
+}
+
+.fake-btn.btn-editar:hover {
+    background-color: #ffb347;
+}
+
+

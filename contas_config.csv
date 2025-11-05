@@ -1,40 +1,40 @@
 account_display;property_display;ativa;meta;t_link1;link1;t_link2;link2;t_link3;link3;t_link4;link4;t_link5;link5;t_link6;link6;status
-Bambaro [Conta];Bambaro - Móveis de Luxo;True;9999999;uol;https://uol.com.br;magalu;https://magalu.com.br;ml;https://mercadolivre.com.br;;;;;;;Ativo
-Banka Panka;Banka Panka – GA4;True;100000;;https://analytics.google.com, dfgbçsfdvpsfgdflng, ;;;;;;;;;;;Inativo
-Bebelline;Bebelline;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Catucci Denim - Ecommerce;Catucci Denim – GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Cocamar;Cocamar e-commerce atacado;True;9000;;'www.uol.com.br';;'www.google.com.br', 'teste_lik'];;;;;;;;;Ativo
-Daksul Jeans;Daksul Jeans - GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Danilo Cavallini;Site Danilo Cavallini;True;100000;;'https://analytics.google.com';;link tes;;;;;;;;;Ativo
-Dimy;Dimy – GA4;True;500000;magalu;https://analytics.google.com;;;;;;;;;;;Inativo
-Donna Maira;Donna Maira | UA - GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Dra Priscila Amaral;Dra Priscila Amaral;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Drafmil;drafmil.com.br - GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-GAIALE;E-commerce Gaiale;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-INVICCI;LP Invicci;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-LOOK DA MARI;Ecom Look da Mari;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Laundrysp.com;Laundrysp.com – GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Lizi e Lizi E-commerce 2024;Lizi e Lizi;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Luci-Mar Moda Praia;Luci_Mar Moda Praia;True;500000;magalu;https://analytics.google.com;;;;;;;;;;;Ativo
-Madame Lost;Madame Lost - GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Mapi Pijamas ;www.usomapi.com;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Mena Bijuterias;Stephanie Amaral de Gois;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Nome de Prata;Nome de Prata - RD Station – GA4;True;100000;;'https://analytics.google.com';;link tes;aaaa;1234.0;;;;;;;Ativo
-Nome de Prata;Nome de Prata – GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Onda Verão;Onda Verão ;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Onça Preta;oncapreta.com.br – GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Onça Preta;oncapreta.com.br – GA4 - Secudário;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Ornabela;Ornabela;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-ROSE LIVING;ROSE LIVING;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Rizzatti;Rizzatti;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Rs Joias By Keli Sordi;RS Joias Shopify;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Rs Joias By Keli Sordi;Rs Joias By Keli Sordi;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4;True;100000;;'https://analytics.google.com;;;;;;;;;;;Ativo
-Verde & Estilo;Site Verde & Estilo;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Vest Prado;Vest Prado;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-WN7;WN7 Performance Wix;False;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-Wild World LTDA;Taylor Baptista;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-antesdeparis.com.br/;http://antesdeparis.com.br - GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-roupa para brincar;Roupa para Brincar – GA4;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-site minas leds - mercado livre;Minas Leds Tray;True;100000;;'https://analytics.google.com';;;;;;;;;;;Ativo
-www.cactus.com.br;www.cactus.com.br;True;999999;;'https://analytics.google.com';;;;;;;;;;;Ativo
+Bambaro [Conta];Bambaro - Móveis de Luxo;True;9999999;uol;https://uol.com.br;magalu;https://magalu.com.br;ml;https://mercadolivre.com.br;nan;nan;nan;nan;nan;nan;Ativo
+Banka Panka;Banka Panka – GA4;True;100000;nan;https://analytics.google.com, dfgbçsfdvpsfgdflng, ;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Inativo
+Bebelline;Bebelline;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Catucci Denim - Ecommerce;Catucci Denim – GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Cocamar;Cocamar e-commerce atacado;True;9000;nan;'www.uol.com.br';nan;'www.google.com.br', 'teste_lik'];nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Daksul Jeans;Daksul Jeans - GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Danilo Cavallini;Site Danilo Cavallini;True;100000;nan;'https://analytics.google.com';nan;link tes;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Dimy;Dimy – GA4;True;500000;magalu;https://analytics.google.com;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Inativo
+Donna Maira;Donna Maira | UA - GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Dra Priscila Amaral;Dra Priscila Amaral;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Drafmil;drafmil.com.br - GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+GAIALE;E-commerce Gaiale;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+INVICCI;LP Invicci;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+LOOK DA MARI;Ecom Look da Mari;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Laundrysp.com;Laundrysp.com – GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Lizi e Lizi E-commerce 2024;Lizi e Lizi;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Luci-Mar Moda Praia;Luci_Mar Moda Praia;True;500000;magalu;https://analytics.google.com;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Madame Lost;Madame Lost - GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Mapi Pijamas ;www.usomapi.com;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Mena Bijuterias;Stephanie Amaral de Gois;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Nome de Prata;Nome de Prata - RD Station – GA4;True;100000;nan;'https://analytics.google.com';nan;link tes;aaaa;1234.0;nan;nan;nan;nan;nan;nan;Ativo
+Nome de Prata;Nome de Prata – GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Onda Verão;Onda Verão ;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Onça Preta;oncapreta.com.br – GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Onça Preta;oncapreta.com.br – GA4 - Secudário;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Ornabela;Ornabela;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+ROSE LIVING;ROSE LIVING;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Rizzatti;Rizzatti;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Rs Joias By Keli Sordi;RS Joias Shopify;True;100000;nan;dfgdfgd;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Rs Joias By Keli Sordi;Rs Joias By Keli Sordi;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Santo Óleo | Google Analytics Account;Propriedade Principal | https://santooleo.com.br/ - GA4;True;123456;nan;'https://analytics.google.com;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Verde & Estilo;Site Verde & Estilo;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Vest Prado;Vest Prado;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+WN7;WN7 Performance Wix;False;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+Wild World LTDA;Taylor Baptista;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+antesdeparis.com.br/;http://antesdeparis.com.br - GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+roupa para brincar;Roupa para Brincar – GA4;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+site minas leds - mercado livre;Minas Leds Tray;True;100000;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
+www.cactus.com.br;www.cactus.com.br;True;999999;nan;'https://analytics.google.com';nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;Ativo
